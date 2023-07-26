@@ -136,9 +136,9 @@
       "mp3": "sounds/Angelus Hold it down.mp3"
     },
     {
-      "name": "Angelus I explore mp3.WAV
+      "name": "Angelus I explore mp3.WAV",
       "color": "#C0C0C0",
-      "mp3": "sounds/Angelus I explore mp3.WAV
+      "mp3": "sounds/Angelus I explore mp3.WAV"
     },
     {
       "name": "Angelus I explore",
@@ -151,9 +151,9 @@
       "mp3": "sounds/Angelus I think you not doing it the right way.mp3"
     },
     {
-      "name": "Angelus it says NOTEPAD mp3.WAV
+      "name": "Angelus it says NOTEPAD mp3.WAV",
       "color": "#CECECE",
-      "mp3": "sounds/Angelus it says NOTEPAD mp3.WAV
+      "mp3": "sounds/Angelus it says NOTEPAD mp3.WAV"
     },
     {
       "name": "Angelus it says NOTEPAD",
@@ -226,7 +226,7 @@
       "mp3": "sounds/Angelus shortly notification click it1.mp3"
     },
     {
-      "name": "Angelus space mp3",
+      "name": "Angelus space",
       "color": "#737CA1",
       "mp3": "sounds/Angelus space mp3.WAV"
     },
