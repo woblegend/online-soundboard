@@ -2,16 +2,9 @@
   "sounds": [
     {
       "name": "Abola Muderchod",
-      "color": "#000000",
-      "mp3": "sounds/Abola Muderchod.mp3"
-    {
-      "name": "ah wah-ah wah",
-      "color": "#0C090A",
-      "mp3": "sounds/ah wah-ah wah.mp3"
-    {
-      "name": "Abola Muderchod",
       "color": "#34282C",
       "mp3": "sounds/Abola Muderchod.mp3"
+    },
     {
       "name": "ah wah-ah wah",
       "color": "#3B3131",
