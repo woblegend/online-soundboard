@@ -2,2622 +2,1352 @@
   "sounds": [
     {
       "name": "Abola Muderchod",
-      "color": "#34282C",
+      "color": "#000000",
       "mp3": "sounds/Abola Muderchod.mp3"
     },
     {
       "name": "ah wah-ah wah",
-      "color": "#3B3131",
+      "color": "#0C090A",
       "mp3": "sounds/ah wah-ah wah.mp3"
     },
     {
       "name": "and im the executive here",
+      "color": "#34282C",
+      "mp3": "sounds/and im the executive here.mp3"
+    },
+    {
+      "name": "Angelus 793",
+      "color": "#3B3131",
+      "mp3": "sounds/Angelus 793.Mp3"
+    },
+    {
+      "name": "Angelus a one time key 112169",
       "color": "#3A3B3C",
-      "mp3": "sounds/and im the executive here.mp3"
+      "mp3": "sounds/Angelus a one time key 112169.Mp3"
     },
     {
-      "name": "Angelus 793",
+      "name": "Angelus Alright",
       "color": "#454545",
-      "mp3": "sounds/Angelus 793.mp3"
+      "mp3": "sounds/Angelus Alright.Mp3"
     },
     {
-      "name": "Angelus a one time key 112169",
+      "name": "Angelus and dont release it hold it down",
       "color": "#413839",
-      "mp3": "sounds/Angelus a one time key 112169.mp3"
+      "mp3": "sounds/Angelus and dont release it hold it down.Mp3"
     },
     {
-      "name": "Angelus Alright",
+      "name": "Angelus and from other finger press",
       "color": "#3D3C3A",
-      "mp3": "sounds/Angelus Alright.mp3"
+      "mp3": "sounds/Angelus and from other finger press.Mp3"
     },
     {
-      "name": "Angelus and dont release it hold it down",
+      "name": "Angelus and now hold it down",
       "color": "#463E3F",
-      "mp3": "sounds/Angelus and dont release it hold it down.mp3"
+      "mp3": "sounds/Angelus and now hold it down.Mp3"
     },
     {
-      "name": "Angelus and from other finger press",
+      "name": "Angelus But before that",
       "color": "#4C4646",
-      "mp3": "sounds/Angelus and from other finger press.mp3"
+      "mp3": "sounds/Angelus But before that.Mp3"
     },
     {
-      "name": "Angelus and now hold it down",
+      "name": "Angelus Can you please confirm one thing for your safety",
       "color": "#504A4B",
-      "mp3": "sounds/Angelus and now hold it down.mp3"
+      "mp3": "sounds/Angelus Can you please confirm one thing for your safety.Mp3"
     },
     {
-      "name": "Angelus But before that",
+      "name": "Angelus can you please spell it out i explore",
       "color": "#565051",
-      "mp3": "sounds/Angelus But before that.mp3"
+      "mp3": "sounds/Angelus can you please spell it out i explore.Mp3"
     },
     {
-      "name": "Angelus Can you please confirm one thing for your safety",
+      "name": "Angelus can you please spell it out",
       "color": "#52595D",
-      "mp3": "sounds/Angelus Can you please confirm one thing for your safety.mp3"
+      "mp3": "sounds/Angelus can you please spell it out.Mp3"
     },
     {
-      "name": "Angelus can you please spell it out i explore",
+      "name": "Angelus can you repeat word for word what you have written",
       "color": "#5C5858",
-      "mp3": "sounds/Angelus can you please spell it out i explore.mp3"
+      "mp3": "sounds/Angelus can you repeat word for word what you have written.Mp3"
     },
     {
-      "name": "Angelus can you please spell it out",
+      "name": "Angelus can you see something now",
       "color": "#625D5D",
-      "mp3": "sounds/Angelus can you please spell it out.mp3"
+      "mp3": "sounds/Angelus can you see something now.Mp3"
     },
     {
-      "name": "Angelus can you repeat word for word what you have written",
+      "name": "Angelus can you seee my mouse moving",
       "color": "#666362",
-      "mp3": "sounds/Angelus can you repeat word for word what you have written.mp3"
+      "mp3": "sounds/Angelus can you seee my mouse moving.Mp3"
     },
     {
-      "name": "Angelus can you see something now",
+      "name": "Angelus Certified Technician for the windows",
       "color": "#696969",
-      "mp3": "sounds/Angelus can you see something now.mp3"
+      "mp3": "sounds/Angelus Certified Technician for the windows.Mp3"
     },
     {
-      "name": "Angelus can you seee my mouse moving",
+      "name": "Angelus Check all issues in exact manner",
       "color": "#686A6C",
-      "mp3": "sounds/Angelus can you seee my mouse moving.mp3"
+      "mp3": "sounds/Angelus Check all issues in exact manner.Mp3"
     },
     {
-      "name": "Angelus Certified Technician for the windows",
+      "name": "Angelus click on connect",
       "color": "#6D6968",
-      "mp3": "sounds/Angelus Certified Technician for the windows.mp3"
+      "mp3": "sounds/Angelus click on connect.Mp3"
     },
     {
-      "name": "Angelus Check all issues in exact manner",
+      "name": "Angelus click on it one more time click enter",
       "color": "#726E6D",
-      "mp3": "sounds/Angelus Check all issues in exact manner.mp3"
+      "mp3": "sounds/Angelus click on it one more time click enter.Mp3"
     },
     {
-      "name": "Angelus click on connect",
+      "name": "Angelus congratulations sir we are connected",
       "color": "#736F6E",
-      "mp3": "sounds/Angelus click on connect.mp3"
+      "mp3": "sounds/Angelus congratulations sir we are connected.Mp3"
     },
     {
-      "name": "Angelus click on it one more time click enter",
+      "name": "Angelus dont release it",
       "color": "#757575",
-      "mp3": "sounds/Angelus click on it one more time click enter.mp3"
+      "mp3": "sounds/Angelus dont release it.Mp3"
     },
     {
-      "name": "Angelus congratulations sir we are connected",
+      "name": "Angelus four boxes like windows",
       "color": "#797979",
-      "mp3": "sounds/Angelus congratulations sir we are connected.mp3"
+      "mp3": "sounds/Angelus four boxes like windows.Mp3"
     },
     {
-      "name": "Angelus dont release it",
+      "name": "Angelus four flags on the left bottom corner",
       "color": "#837E7C",
-      "mp3": "sounds/Angelus dont release it.mp3"
+      "mp3": "sounds/Angelus four flags on the left bottom corner.Mp3"
     },
     {
-      "name": "Angelus four boxes like windows",
+      "name": "Angelus Gimme one second",
       "color": "#808080",
-      "mp3": "sounds/Angelus four boxes like windows.mp3"
+      "mp3": "sounds/Angelus Gimme one second.Mp3"
     },
     {
-      "name": "Angelus four flags on the left bottom corner",
+      "name": "Angelus Hackers from Jordan and Turkey",
       "color": "#848482",
-      "mp3": "sounds/Angelus four flags on the left bottom corner.mp3"
+      "mp3": "sounds/Angelus Hackers from Jordan and Turkey.Mp3"
     },
     {
-      "name": "Angelus Gimme one second",
+      "name": "Angelus Hold it down",
       "color": "#8D918D",
-      "mp3": "sounds/Angelus Gimme one second.mp3"
+      "mp3": "sounds/Angelus Hold it down.Mp3"
     },
     {
-      "name": "Angelus Hackers from Jordan and Turkey",
+      "name": "Angelus I explore mp3",
       "color": "#A9A9A9",
-      "mp3": "sounds/Angelus Hackers from Jordan and Turkey.mp3"
+      "mp3": "sounds/Angelus I explore mp3.wav"
     },
     {
-      "name": "Angelus Hold it down",
+      "name": "Angelus I explore",
       "color": "#B6B6B4",
-      "mp3": "sounds/Angelus Hold it down.mp3"
+      "mp3": "sounds/Angelus I explore.Mp3"
     },
     {
-      "name": "Angelus I explore",
+      "name": "Angelus I think you not doing it the right way",
+      "color": "#C0C0C0",
+      "mp3": "sounds/Angelus I think you not doing it the right way.Mp3"
+    },
+    {
+      "name": "Angelus it says NOTEPAD mp3",
       "color": "#C9C0BB",
-      "mp3": "sounds/Angelus I explore.mp3"
+      "mp3": "sounds/Angelus it says NOTEPAD mp3.wav"
     },
     {
-      "name": "Angelus I think you not doing it the right way",
+      "name": "Angelus it says NOTEPAD",
       "color": "#D1D0CE",
-      "mp3": "sounds/Angelus I think you not doing it the right way.mp3"
+      "mp3": "sounds/Angelus it says NOTEPAD.Mp3"
     },
     {
-      "name": "Angelus it says NOTEPAD",
+      "name": "Angelus Mr Robert Mr Bob",
+      "color": "#CECECE",
+      "mp3": "sounds/Angelus Mr Robert Mr Bob.Mp3"
+    },
+    {
+      "name": "Angelus not forward slash",
       "color": "#D3D3D3",
-      "mp3": "sounds/Angelus it says NOTEPAD.mp3"
+      "mp3": "sounds/Angelus not forward slash.Mp3"
     },
     {
-      "name": "Angelus Mr Robert Mr Bob",
+      "name": "Angelus now leave your mouse",
       "color": "#DADBDD",
-      "mp3": "sounds/Angelus Mr Robert Mr Bob.mp3"
+      "mp3": "sounds/Angelus now leave your mouse.Mp3"
     },
     {
-      "name": "Angelus not forward slash",
+      "name": "Angelus now type over there let me get the key for you",
       "color": "#DCDCDC",
-      "mp3": "sounds/Angelus not forward slash.mp3"
+      "mp3": "sounds/Angelus now type over there let me get the key for you.Mp3"
     },
     {
-      "name": "Angelus now leave your mouse",
+      "name": "Angelus on the right bottom can you see certified support",
       "color": "#E5E4E2",
-      "mp3": "sounds/Angelus now leave your mouse.mp3"
+      "mp3": "sounds/Angelus on the right bottom can you see certified support.Mp3"
     },
     {
-      "name": "Angelus now type over there let me get the key for you",
+      "name": "Angelus on the right bottom the cor-ner",
       "color": "#BCC6CC",
-      "mp3": "sounds/Angelus now type over there let me get the key for you.mp3"
+      "mp3": "sounds/Angelus on the right bottom the cor-ner.Mp3"
     },
     {
-      "name": "Angelus on the right bottom can you see certified support",
+      "name": "Angelus option of run",
       "color": "#98AFC7",
-      "mp3": "sounds/Angelus on the right bottom can you see certified support.mp3"
+      "mp3": "sounds/Angelus option of run.Mp3"
     },
     {
-      "name": "Angelus on the right bottom the cor-ner",
+      "name": "Angelus option of YES",
       "color": "#838996",
-      "mp3": "sounds/Angelus on the right bottom the cor-ner.mp3"
+      "mp3": "sounds/Angelus option of YES.Mp3"
     },
     {
-      "name": "Angelus option of run",
+      "name": "Angelus Press the four flags key",
       "color": "#778899",
-      "mp3": "sounds/Angelus option of run.mp3"
+      "mp3": "sounds/Angelus Press the four flags key.Mp3"
     },
     {
-      "name": "Angelus option of YES",
+      "name": "Angelus Right 6",
       "color": "#708090",
-      "mp3": "sounds/Angelus option of YES.mp3"
+      "mp3": "sounds/Angelus Right 6.mp3"
     },
     {
-      "name": "Angelus Press the four flags key",
+      "name": "Angelus Right",
       "color": "#6D7B8D",
-      "mp3": "sounds/Angelus Press the four flags key.mp3"
+      "mp3": "sounds/Angelus Right.Mp3"
     },
     {
-      "name": "Angelus Right 6",
+      "name": "Angelus shortly notification click it",
       "color": "#657383",
-      "mp3": "sounds/Angelus Right 6.mp3"
+      "mp3": "sounds/Angelus shortly notification click it.Mp3"
     },
     {
-      "name": "Angelus Right",
+      "name": "Angelus shortly notification click it1",
       "color": "#616D7E",
-      "mp3": "sounds/Angelus Right.mp3"
+      "mp3": "sounds/Angelus shortly notification click it1.Mp3"
     },
     {
-      "name": "Angelus shortly notification click it",
+      "name": "Angelus space mp3",
       "color": "#646D7E",
-      "mp3": "sounds/Angelus shortly notification click it.mp3"
+      "mp3": "sounds/Angelus space mp3.wav"
     },
     {
-      "name": "Angelus shortly notification click it1",
+      "name": "Angelus Tanks for holdin the line can you hear me",
       "color": "#566D7E",
-      "mp3": "sounds/Angelus shortly notification click it1.mp3"
+      "mp3": "sounds/Angelus Tanks for holdin the line can you hear me.Mp3"
     },
     {
-      "name": "Angelus Tanks for holdin the line can you hear me",
+      "name": "Angelus thats the right place sir click on it",
+      "color": "#737CA1",
+      "mp3": "sounds/Angelus thats the right place sir click on it.Mp3"
+    },
+    {
+      "name": "Angelus THE four flags key",
       "color": "#728FCE",
-      "mp3": "sounds/Angelus Tanks for holdin the line can you hear me.mp3"
+      "mp3": "sounds/Angelus THE four flags key.Mp3"
     },
     {
-      "name": "Angelus thats the right place sir click on it",
+      "name": "Angelus The reason you are talkin to me right now",
       "color": "#4863A0",
-      "mp3": "sounds/Angelus thats the right place sir click on it.mp3"
+      "mp3": "sounds/Angelus The reason you are talkin to me right now.Mp3"
     },
     {
-      "name": "Angelus THE four flags key",
+      "name": "Angelus Till this problem is not fixed",
       "color": "#2F539B",
-      "mp3": "sounds/Angelus THE four flags key.mp3"
+      "mp3": "sounds/Angelus Till this problem is not fixed.Mp3"
     },
     {
-      "name": "Angelus The reason you are talkin to me right now",
+      "name": "Angelus uh huh",
       "color": "#2B547E",
-      "mp3": "sounds/Angelus The reason you are talkin to me right now.mp3"
+      "mp3": "sounds/Angelus uh huh.Mp3"
     },
     {
-      "name": "Angelus Till this problem is not fixed",
+      "name": "Angelus warning alert loop",
       "color": "#36454F",
-      "mp3": "sounds/Angelus Till this problem is not fixed.mp3"
+      "mp3": "sounds/Angelus warning alert loop.Mp3"
     },
     {
-      "name": "Angelus uh huh",
+      "name": "Angelus warning alert loop48kHz.WAV
       "color": "#29465B",
-      "mp3": "sounds/Angelus uh huh.mp3"
+      "mp3": "sounds/Angelus warning alert loop48kHz.WAV"
     },
     {
-      "name": "Angelus warning alert loop",
+      "name": "Angelus we are going to help you",
       "color": "#2B3856",
-      "mp3": "sounds/Angelus warning alert loop.mp3"
+      "mp3": "sounds/Angelus we are going to help you.Mp3"
     },
     {
-      "name": "Angelus we are going to help you",
+      "name": "Angelus when you see option at bottom click on save",
+      "color": "#123456",
+      "mp3": "sounds/Angelus when you see option at bottom click on save.Mp3"
+    },
+    {
+      "name": "Angelus who is this",
       "color": "#151B54",
-      "mp3": "sounds/Angelus we are going to help you.mp3"
+      "mp3": "sounds/Angelus who is this.mp3"
     },
     {
-      "name": "Angelus when you see option at bottom click on save",
+      "name": "Angelus WHY YOU SUCH A DICKHEAD",
       "color": "#191970",
-      "mp3": "sounds/Angelus when you see option at bottom click on save.mp3"
+      "mp3": "sounds/Angelus WHY YOU SUCH A DICKHEAD.mp3"
     },
     {
-      "name": "Angelus who is this",
+      "name": "Angelus yes i can hear you",
       "color": "#000080",
-      "mp3": "sounds/Angelus who is this.mp3"
+      "mp3": "sounds/Angelus yes i can hear you.mp3"
     },
     {
-      "name": "Angelus WHY YOU SUCH A DICKHEAD",
+      "name": "Angelus yes",
       "color": "#151B8D",
-      "mp3": "sounds/Angelus WHY YOU SUCH A DICKHEAD.mp3"
+      "mp3": "sounds/Angelus yes.mp3"
     },
     {
-      "name": "Angelus yes i can hear you",
+      "name": "Angelus yes1",
       "color": "#00008B",
-      "mp3": "sounds/Angelus yes i can hear you.mp3"
+      "mp3": "sounds/Angelus yes1.mp3"
     },
     {
-      "name": "Angelus yes",
+      "name": "Angelus you callin from Michigan",
       "color": "#15317E",
-      "mp3": "sounds/Angelus yes.mp3"
+      "mp3": "sounds/Angelus you callin from Michigan.Mp3"
     },
     {
-      "name": "Angelus yes1",
+      "name": "Angelus You dont need to worry",
       "color": "#0000A0",
-      "mp3": "sounds/Angelus yes1.mp3"
+      "mp3": "sounds/Angelus You dont need to worry.Mp3"
     },
     {
-      "name": "Angelus you callin from Michigan",
+      "name": "Angelus you know boogeyman",
       "color": "#0000A5",
-      "mp3": "sounds/Angelus you callin from Michigan.mp3"
+      "mp3": "sounds/Angelus you know boogeyman.mp3"
     },
     {
-      "name": "Angelus You dont need to worry",
+      "name": "Angelus you want me to fuck your mother",
       "color": "#0020C2",
-      "mp3": "sounds/Angelus You dont need to worry.mp3"
+      "mp3": "sounds/Angelus you want me to fuck your mother.mp3"
     },
     {
-      "name": "Angelus you know boogeyman",
+      "name": "Angelus YOUR MOTHER WITHOUT CONDOMN",
       "color": "#0000CD",
-      "mp3": "sounds/Angelus you know boogeyman.mp3"
+      "mp3": "sounds/Angelus YOUR MOTHER WITHOUT CONDOMN.mp3"
     },
     {
-      "name": "Angelus you want me to fuck your mother",
+      "name": "Angery American Man Enjoy making harassment phone calls dont call again",
       "color": "#0041C2",
-      "mp3": "sounds/Angelus you want me to fuck your mother.mp3"
+      "mp3": "sounds/Angery American Man Enjoy making harassment phone calls dont call again.mp3"
     },
     {
-      "name": "Angelus YOUR MOTHER WITHOUT CONDOMN",
+      "name": "are you alright",
       "color": "#2916F5",
-      "mp3": "sounds/Angelus YOUR MOTHER WITHOUT CONDOMN.mp3"
+      "mp3": "sounds/are you alright.mp3"
     },
     {
-      "name": "Angery American Man Enjoy making harassment phone calls dont call again",
+      "name": "are you calling me by using a cellphone",
       "color": "#0000FF",
-      "mp3": "sounds/Angery American Man Enjoy making harassment phone calls dont call again.mp3"
+      "mp3": "sounds/are you calling me by using a cellphone.mp3"
     },
     {
-      "name": "are you alright",
+      "name": "are you fool",
       "color": "#0002FF",
-      "mp3": "sounds/are you alright.mp3"
+      "mp3": "sounds/are you fool.mp3"
     },
     {
-      "name": "are you calling me by using a cellphone",
+      "name": "are you on a drugs right now",
       "color": "#0909FF",
-      "mp3": "sounds/are you calling me by using a cellphone.mp3"
+      "mp3": "sounds/are you on a drugs right now.mp3"
     },
     {
-      "name": "are you fool",
+      "name": "are you out of the mind",
       "color": "#1F45FC",
-      "mp3": "sounds/are you fool.mp3"
+      "mp3": "sounds/are you out of the mind.mp3"
     },
     {
-      "name": "are you on a drugs right now",
+      "name": "are you sick sir",
       "color": "#2554C7",
-      "mp3": "sounds/are you on a drugs right now.mp3"
+      "mp3": "sounds/are you sick sir.mp3"
     },
     {
-      "name": "are you out of the mind",
+      "name": "are you trying to steal the prize",
       "color": "#1569C7",
-      "mp3": "sounds/are you out of the mind.mp3"
+      "mp3": "sounds/are you trying to steal the prize.mp3"
     },
     {
-      "name": "are you sick sir",
+      "name": "ask your mom to come and give me a blowjob",
       "color": "#1974D2",
-      "mp3": "sounds/are you sick sir.mp3"
+      "mp3": "sounds/ask your mom to come and give me a blowjob.mp3"
     },
     {
-      "name": "are you trying to steal the prize",
+      "name": "bark like a dog - bark x3 - bark like a dog x2",
       "color": "#2B60DE",
-      "mp3": "sounds/are you trying to steal the prize.mp3"
+      "mp3": "sounds/bark like a dog - bark x3 - bark like a dog x2.mp3"
     },
     {
-      "name": "ask your mom to come and give me a blowjob",
+      "name": "batty boy",
       "color": "#4169E1",
-      "mp3": "sounds/ask your mom to come and give me a blowjob.mp3"
+      "mp3": "sounds/batty boy.mp3"
     },
     {
-      "name": "bark like a dog - bark x3 - bark like a dog x2",
+      "name": "can you please hang up this call from your side sir",
       "color": "#2B65EC",
-      "mp3": "sounds/bark like a dog - bark x3 - bark like a dog x2.mp3"
+      "mp3": "sounds/can you please hang up this call from your side sir.mp3"
     },
     {
-      "name": "batty boy",
+      "name": "can you see my cock - you like to suck it",
       "color": "#306EFF",
-      "mp3": "sounds/batty boy.mp3"
+      "mp3": "sounds/can you see my cock - you like to suck it.mp3"
     },
     {
-      "name": "can you please hang up this call from your side sir",
+      "name": "can you send me your dirty x4 panties",
       "color": "#157DEC",
-      "mp3": "sounds/can you please hang up this call from your side sir.mp3"
+      "mp3": "sounds/can you send me your dirty x4 panties.mp3"
     },
     {
-      "name": "can you see my cock - you like to suck it",
+      "name": "chicken burger 1",
       "color": "#1589FF",
-      "mp3": "sounds/can you see my cock - you like to suck it.mp3"
+      "mp3": "sounds/chicken burger 1.mp3"
     },
     {
-      "name": "can you send me your dirty x4 panties",
+      "name": "chicken burger 2",
       "color": "#1E90FF",
-      "mp3": "sounds/can you send me your dirty x4 panties.mp3"
+      "mp3": "sounds/chicken burger 2.mp3"
     },
     {
-      "name": "chicken burger 1",
+      "name": "chicken burger disconnected",
       "color": "#368BC1",
-      "mp3": "sounds/chicken burger 1.mp3"
+      "mp3": "sounds/chicken burger disconnected.mp3"
     },
     {
-      "name": "chicken burger 2",
+      "name": "chicken burger x3",
       "color": "#4682B4",
-      "mp3": "sounds/chicken burger 2.mp3"
+      "mp3": "sounds/chicken burger x3.mp3"
     },
     {
-      "name": "chicken burger disconnected",
+      "name": "Cindy possible pch victim voice mail",
       "color": "#488AC7",
-      "mp3": "sounds/chicken burger disconnected.mp3"
+      "mp3": "sounds/Cindy possible pch victim voice mail.mp3"
     },
     {
-      "name": "chicken burger x3",
+      "name": "cindy youre gonna be a dead bitch by the end of today",
       "color": "#357EC7",
-      "mp3": "sounds/chicken burger x3.mp3"
+      "mp3": "sounds/cindy youre gonna be a dead bitch by the end of today.mp3"
     },
     {
-      "name": "Cindy possible pch victim voice mail",
+      "name": "come to paris",
       "color": "#3090C7",
-      "mp3": "sounds/Cindy possible pch victim voice mail.mp3"
+      "mp3": "sounds/come to paris.mp3"
     },
     {
-      "name": "cindy youre gonna be a dead bitch by the end of today",
+      "name": "did you like to drink my cum",
       "color": "#659EC7",
-      "mp3": "sounds/cindy youre gonna be a dead bitch by the end of today.mp3"
+      "mp3": "sounds/did you like to drink my cum.mp3"
     },
     {
-      "name": "come to paris",
+      "name": "do i have to call 911",
       "color": "#87AFC7",
-      "mp3": "sounds/come to paris.mp3"
+      "mp3": "sounds/do i have to call 911.mp3"
     },
     {
-      "name": "did you like to drink my cum",
+      "name": "do not ever call okay",
       "color": "#95B9C7",
-      "mp3": "sounds/did you like to drink my cum.mp3"
+      "mp3": "sounds/do not ever call okay.mp3"
     },
     {
-      "name": "do i have to call 911",
+      "name": "Do you know I am your father",
       "color": "#6495ED",
-      "mp3": "sounds/do i have to call 911.mp3"
+      "mp3": "sounds/Do you know I am your father.mp3"
     },
     {
-      "name": "do not ever call okay",
+      "name": "do you know what are the components of a computer - ohh i know cuz you dont even have a computer - your a poor guy",
       "color": "#6698FF",
-      "mp3": "sounds/do not ever call okay.mp3"
+      "mp3": "sounds/do you know what are the components of a computer - ohh i know cuz you dont even have a computer - your a poor guy.mp3"
     },
     {
-      "name": "Do you know I am your father",
+      "name": "do you think that we are fool here",
       "color": "#56A5EC",
-      "mp3": "sounds/Do you know I am your father.mp3"
+      "mp3": "sounds/do you think that we are fool here.mp3"
     },
     {
-      "name": "do you know what are the components of a computer - ohh i know cuz you dont even have a computer - your a poor guy",
+      "name": "Do you want to book TicKit x2 TiKiTTiKiTTiKiTTiKiT",
       "color": "#38ACEC",
-      "mp3": "sounds/do you know what are the components of a computer - ohh i know cuz you dont even have a computer - your a poor guy.mp3"
+      "mp3": "sounds/Do you want to book TicKit x2 TiKiTTiKiTTiKiTTiKiT.mp3"
     },
     {
-      "name": "do you think that we are fool here",
+      "name": "donald trump is my father",
       "color": "#00BFFF",
-      "mp3": "sounds/do you think that we are fool here.mp3"
+      "mp3": "sounds/donald trump is my father.mp3"
     },
     {
-      "name": "Do you want to book TicKit x2 TiKiTTiKiTTiKiTTiKiT",
+      "name": "dont tech your dad how to fuck",
       "color": "#3BB9FF",
-      "mp3": "sounds/Do you want to book TicKit x2 TiKiTTiKiTTiKiTTiKiT.mp3"
+      "mp3": "sounds/dont tech your dad how to fuck.mp3"
     },
     {
-      "name": "donald trump is my father",
+      "name": "egg and toast - same x4",
       "color": "#5CB3FF",
-      "mp3": "sounds/donald trump is my father.mp3"
+      "mp3": "sounds/egg and toast - same x4.mp3"
     },
     {
-      "name": "dont tech your dad how to fuck",
+      "name": "even i have a left and a right balls buddy - do you have a left and right",
       "color": "#79BAEC",
-      "mp3": "sounds/dont tech your dad how to fuck.mp3"
+      "mp3": "sounds/even i have a left and a right balls buddy - do you have a left and right.mp3"
     },
     {
-      "name": "egg and toast - same x4",
+      "name": "family motto",
       "color": "#82CAFF",
-      "mp3": "sounds/egg and toast - same x4.mp3"
+      "mp3": "sounds/family motto.mp3"
     },
     {
-      "name": "even i have a left and a right balls buddy - do you have a left and right",
+      "name": "first of all mind your language",
       "color": "#87CEFA",
-      "mp3": "sounds/even i have a left and a right balls buddy - do you have a left and right.mp3"
+      "mp3": "sounds/first of all mind your language.mp3"
     },
     {
-      "name": "family motto",
+      "name": "fries coke fanter",
       "color": "#87CEEB",
-      "mp3": "sounds/family motto.mp3"
+      "mp3": "sounds/fries coke fanter.mp3"
     },
     {
-      "name": "first of all mind your language",
+      "name": "fuck off - fuck your mother",
       "color": "#A0CFEC",
-      "mp3": "sounds/first of all mind your language.mp3"
+      "mp3": "sounds/fuck off - fuck your mother.mp3"
     },
     {
-      "name": "fries coke fanter",
+      "name": "fuck off bitch and suck your mother",
       "color": "#B7CEEC",
-      "mp3": "sounds/fries coke fanter.mp3"
+      "mp3": "sounds/fuck off bitch and suck your mother.mp3"
     },
     {
-      "name": "fuck off - fuck your mother",
+      "name": "fuck off you mother fucker",
       "color": "#B4CFEC",
-      "mp3": "sounds/fuck off - fuck your mother.mp3"
+      "mp3": "sounds/fuck off you mother fucker.mp3"
     },
     {
-      "name": "fuck off bitch and suck your mother",
+      "name": "Fuck yooooooooou fuck you",
       "color": "#ADDFFF",
-      "mp3": "sounds/fuck off bitch and suck your mother.mp3"
+      "mp3": "sounds/Fuck yooooooooou fuck you.mp3"
     },
     {
-      "name": "fuck off you mother fucker",
+      "name": "fuck you sir fuck you",
       "color": "#C2DFFF",
-      "mp3": "sounds/fuck off you mother fucker.mp3"
+      "mp3": "sounds/fuck you sir fuck you.mp3"
     },
     {
-      "name": "Fuck yooooooooou fuck you",
+      "name": "fucking ass hole hindi insults",
       "color": "#C6DEFF",
-      "mp3": "sounds/Fuck yooooooooou fuck you.mp3"
+      "mp3": "sounds/fucking ass hole hindi insults.mp3"
     },
     {
-      "name": "fuck you sir fuck you",
+      "name": "fucking idiot",
       "color": "#BDEDFF",
-      "mp3": "sounds/fuck you sir fuck you.mp3"
+      "mp3": "sounds/fucking idiot.mp3"
     },
     {
-      "name": "fucking ass hole hindi insults",
+      "name": "fuuuck off bloody bitch",
       "color": "#B0E0E6",
-      "mp3": "sounds/fucking ass hole hindi insults.mp3"
+      "mp3": "sounds/fuuuck off bloody bitch.mp3"
     },
     {
-      "name": "fucking idiot",
+      "name": "get lost from here just get lost",
       "color": "#AFDCEC",
-      "mp3": "sounds/fucking idiot.mp3"
+      "mp3": "sounds/get lost from here just get lost.mp3"
     },
     {
-      "name": "fuuuck off bloody bitch",
+      "name": "get lost you mother fucker",
       "color": "#ADD8E6",
-      "mp3": "sounds/fuuuck off bloody bitch.mp3"
+      "mp3": "sounds/get lost you mother fucker.mp3"
     },
     {
-      "name": "get lost from here just get lost",
+      "name": "go and fuck yourself",
       "color": "#B0CFDE",
-      "mp3": "sounds/get lost from here just get lost.mp3"
+      "mp3": "sounds/go and fuck yourself.mp3"
     },
     {
-      "name": "get lost you mother fucker",
+      "name": "have a good day imma be busy trying to get a hold of your guys mom",
       "color": "#C9DFEC",
-      "mp3": "sounds/get lost you mother fucker.mp3"
+      "mp3": "sounds/have a good day imma be busy trying to get a hold of your guys mom.mp3"
     },
     {
-      "name": "go and fuck yourself",
+      "name": "hello is it me youre looking for i can see it in your eyes ah battey boy go suck yr muda",
       "color": "#D5D6EA",
-      "mp3": "sounds/go and fuck yourself.mp3"
+      "mp3": "sounds/hello is it me youre looking for i can see it in your eyes ah battey boy go suck yr muda.mp3"
     },
     {
-      "name": "have a good day imma be busy trying to get a hold of your guys mom",
+      "name": "hello you mogichod",
       "color": "#E3E4FA",
-      "mp3": "sounds/have a good day imma be busy trying to get a hold of your guys mom.mp3"
+      "mp3": "sounds/hello you mogichod.mp3"
     },
     {
-      "name": "hello is it me youre looking for i can see it in your eyes ah battey boy go suck yr muda",
+      "name": "hey shut up you mother fuckers",
       "color": "#DBE9FA",
-      "mp3": "sounds/hello is it me youre looking for i can see it in your eyes ah battey boy go suck yr muda.mp3"
+      "mp3": "sounds/hey shut up you mother fuckers.mp3"
     },
     {
-      "name": "hello you mogichod",
+      "name": "hindi insults 2",
       "color": "#E6E6FA",
-      "mp3": "sounds/hello you mogichod.mp3"
+      "mp3": "sounds/hindi insults 2.mp3"
     },
     {
-      "name": "hey shut up you mother fuckers",
+      "name": "hindi insults 3",
       "color": "#EBF4FA",
-      "mp3": "sounds/hey shut up you mother fuckers.mp3"
+      "mp3": "sounds/hindi insults 3.mp3"
     },
     {
-      "name": "hindi insults 2",
+      "name": "hindi insults 4",
       "color": "#F0F8FF",
-      "mp3": "sounds/hindi insults 2.mp3"
+      "mp3": "sounds/hindi insults 4.mp3"
     },
     {
-      "name": "hindi insults 3",
+      "name": "hindi insults",
       "color": "#F8F8FF",
-      "mp3": "sounds/hindi insults 3.mp3"
+      "mp3": "sounds/hindi insults.mp3"
     },
     {
-      "name": "hindi insults 4",
+      "name": "hold on x3 give me a moment",
       "color": "#F0FFFF",
-      "mp3": "sounds/hindi insults 4.mp3"
+      "mp3": "sounds/hold on x3 give me a moment.mp3"
     },
     {
-      "name": "hindi insults",
+      "name": "horaaay",
       "color": "#E0FFFF",
-      "mp3": "sounds/hindi insults.mp3"
+      "mp3": "sounds/horaaay.mp3"
     },
     {
-      "name": "hold on x3 give me a moment",
+      "name": "how about you let me fuck your daughter and you watch me",
       "color": "#CCFFFF",
-      "mp3": "sounds/hold on x3 give me a moment.mp3"
+      "mp3": "sounds/how about you let me fuck your daughter and you watch me.mp3"
     },
     {
-      "name": "horaaay",
+      "name": "how are you brother how are you",
       "color": "#9AFEFF",
-      "mp3": "sounds/horaaay.mp3"
+      "mp3": "sounds/how are you brother how are you.mp3"
     },
     {
-      "name": "how about you let me fuck your daughter and you watch me",
+      "name": "how are you",
       "color": "#7DFDFE",
-      "mp3": "sounds/how about you let me fuck your daughter and you watch me.mp3"
+      "mp3": "sounds/how are you.mp3"
     },
     {
-      "name": "how are you brother how are you",
+      "name": "how did it explode again",
       "color": "#57FEFF",
-      "mp3": "sounds/how are you brother how are you.mp3"
+      "mp3": "sounds/how did it explode again.mp3"
     },
     {
-      "name": "how are you",
+      "name": "how do you feel to know your a winner",
       "color": "#00FFFF",
-      "mp3": "sounds/how are you.mp3"
+      "mp3": "sounds/how do you feel to know your a winner.mp3"
     },
     {
-      "name": "how did it explode again",
+      "name": "how may i help you sir",
       "color": "#0AFFFF",
-      "mp3": "sounds/how did it explode again.mp3"
+      "mp3": "sounds/how may i help you sir.mp3"
     },
     {
-      "name": "how do you feel to know your a winner",
+      "name": "how you doing - my dick is waiting for you",
       "color": "#50EBEC",
-      "mp3": "sounds/how do you feel to know your a winner.mp3"
+      "mp3": "sounds/how you doing - my dick is waiting for you.mp3"
     },
     {
-      "name": "how may i help you sir",
+      "name": "i am telling you what is the truth if you want to belive it or not its up to you",
       "color": "#4EE2EC",
-      "mp3": "sounds/how may i help you sir.mp3"
+      "mp3": "sounds/i am telling you what is the truth if you want to belive it or not its up to you.mp3"
     },
     {
-      "name": "how you doing - my dick is waiting for you",
+      "name": "i dont give a damn shit",
       "color": "#16E2F5",
-      "mp3": "sounds/how you doing - my dick is waiting for you.mp3"
+      "mp3": "sounds/i dont give a damn shit.mp3"
     },
     {
-      "name": "i am telling you what is the truth if you want to belive it or not its up to you",
+      "name": "i have a dick give your dad mom son ill fuck your familly one by one",
       "color": "#8EEBEC",
-      "mp3": "sounds/i am telling you what is the truth if you want to belive it or not its up to you.mp3"
+      "mp3": "sounds/i have a dick give your dad mom son ill fuck your familly one by one.mp3"
     },
     {
-      "name": "i dont give a damn shit",
+      "name": "I love techno trance",
       "color": "#AFEEEE",
-      "mp3": "sounds/i dont give a damn shit.mp3"
+      "mp3": "sounds/I love techno trance.mp3"
     },
     {
-      "name": "i have a dick give your dad mom son ill fuck your familly one by one",
+      "name": "i miss my son all the time my son i miss you all the time i know i do some bad things with your mom",
       "color": "#CFECEC",
-      "mp3": "sounds/i have a dick give your dad mom son ill fuck your familly one by one.mp3"
+      "mp3": "sounds/i miss my son all the time my son i miss you all the time i know i do some bad things with your mom.mp3"
     },
     {
-      "name": "I love techno trance",
+      "name": "i said fuck you you fucking whore",
       "color": "#B3D9D9",
-      "mp3": "sounds/I love techno trance.mp3"
+      "mp3": "sounds/i said fuck you you fucking whore.mp3"
     },
     {
-      "name": "i miss my son all the time my son i miss you all the time i know i do some bad things with your mom",
+      "name": "i think you are heigh bro",
       "color": "#81D8D0",
-      "mp3": "sounds/i miss my son all the time my son i miss you all the time i know i do some bad things with your mom.mp3"
+      "mp3": "sounds/i think you are heigh bro.mp3"
     },
     {
-      "name": "i said fuck you you fucking whore",
+      "name": "i would be on time everyday x2 sir",
       "color": "#77BFC7",
-      "mp3": "sounds/i said fuck you you fucking whore.mp3"
+      "mp3": "sounds/i would be on time everyday x2 sir.mp3"
     },
     {
-      "name": "i think you are heigh bro",
+      "name": "I would love to be fucked in my ass",
       "color": "#92C7C7",
-      "mp3": "sounds/i think you are heigh bro.mp3"
+      "mp3": "sounds/I would love to be fucked in my ass.mp3"
     },
     {
-      "name": "i would be on time everyday x2 sir",
+      "name": "if you want may dick i will give you my dick",
       "color": "#78C7C7",
-      "mp3": "sounds/i would be on time everyday x2 sir.mp3"
+      "mp3": "sounds/if you want may dick i will give you my dick.mp3"
     },
     {
-      "name": "I would love to be fucked in my ass",
+      "name": "ill give you one rupee hard cash - come - come and meet me some day",
       "color": "#7BCCB5",
-      "mp3": "sounds/I would love to be fucked in my ass.mp3"
+      "mp3": "sounds/ill give you one rupee hard cash - come - come and meet me some day.mp3"
     },
     {
-      "name": "if you want may dick i will give you my dick",
+      "name": "ill just pull your hair and put you mouth down to your own dick and make you suck it okay",
       "color": "#66CDAA",
-      "mp3": "sounds/if you want may dick i will give you my dick.mp3"
+      "mp3": "sounds/ill just pull your hair and put you mouth down to your own dick and make you suck it okay.mp3"
     },
     {
-      "name": "ill give you one rupee hard cash - come - come and meet me some day",
+      "name": "im coming to you home and i will fuck your mother right now okay",
       "color": "#AAF0D1",
-      "mp3": "sounds/ill give you one rupee hard cash - come - come and meet me some day.mp3"
+      "mp3": "sounds/im coming to you home and i will fuck your mother right now okay.mp3"
     },
     {
-      "name": "ill just pull your hair and put you mouth down to your own dick and make you suck it okay",
+      "name": "im fine habibi how about you",
       "color": "#93FFE8",
-      "mp3": "sounds/ill just pull your hair and put you mouth down to your own dick and make you suck it okay.mp3"
+      "mp3": "sounds/im fine habibi how about you.mp3"
     },
     {
-      "name": "im coming to you home and i will fuck your mother right now okay",
+      "name": "im going to put a popup in ur daughter pussy then i will fix it tonight",
       "color": "#7FFFD4",
-      "mp3": "sounds/im coming to you home and i will fuck your mother right now okay.mp3"
+      "mp3": "sounds/im going to put a popup in ur daughter pussy then i will fix it tonight.mp3"
     },
     {
-      "name": "im fine habibi how about you",
+      "name": "im gonna suck it yes",
       "color": "#01F9C6",
-      "mp3": "sounds/im fine habibi how about you.mp3"
+      "mp3": "sounds/im gonna suck it yes.mp3"
     },
     {
-      "name": "im going to put a popup in ur daughter pussy then i will fix it tonight",
+      "name": "im not here to listen all this crap for you",
       "color": "#40E0D0",
-      "mp3": "sounds/im going to put a popup in ur daughter pussy then i will fix it tonight.mp3"
+      "mp3": "sounds/im not here to listen all this crap for you.mp3"
     },
     {
-      "name": "im gonna suck it yes",
+      "name": "im pretty sure youre mentally unstable",
       "color": "#48D1CC",
-      "mp3": "sounds/im gonna suck it yes.mp3"
+      "mp3": "sounds/im pretty sure youre mentally unstable.mp3"
     },
     {
-      "name": "im not here to listen all this crap for you",
+      "name": "In order todo this first I need to fuck your mom okay",
       "color": "#48CCCD",
-      "mp3": "sounds/im not here to listen all this crap for you.mp3"
+      "mp3": "sounds/In order todo this first I need to fuck your mom okay.mp3"
     },
     {
-      "name": "im pretty sure youre mentally unstable",
+      "name": "in your ass i will give you my dick rather than macafeee",
       "color": "#46C7C7",
-      "mp3": "sounds/im pretty sure youre mentally unstable.mp3"
+      "mp3": "sounds/in your ass i will give you my dick rather than macafeee.mp3"
     },
     {
-      "name": "In order todo this first I need to fuck your mom okay",
+      "name": "indian scammer insults",
       "color": "#43C6DB",
-      "mp3": "sounds/In order todo this first I need to fuck your mom okay.mp3"
+      "mp3": "sounds/indian scammer insults.mp3"
     },
     {
-      "name": "in your ass i will give you my dick rather than macafeee",
+      "name": "is this sound is coming from your asshole you motherfucker",
       "color": "#00CED1",
-      "mp3": "sounds/in your ass i will give you my dick rather than macafeee.mp3"
+      "mp3": "sounds/is this sound is coming from your asshole you motherfucker.mp3"
     },
     {
-      "name": "indian scammer insults",
+      "name": "its up to you im not forcing you to belive anything",
       "color": "#43BFC7",
-      "mp3": "sounds/indian scammer insults.mp3"
+      "mp3": "sounds/its up to you im not forcing you to belive anything.mp3"
     },
     {
-      "name": "is this sound is coming from your asshole you motherfucker",
+      "name": "Jamakin Insults",
       "color": "#20B2AA",
-      "mp3": "sounds/is this sound is coming from your asshole you motherfucker.mp3"
+      "mp3": "sounds/Jamakin Insults.mp3"
     },
     {
-      "name": "its up to you im not forcing you to belive anything",
+      "name": "jesus christ save me from you fuckers",
       "color": "#3EA99F",
-      "mp3": "sounds/its up to you im not forcing you to belive anything.mp3"
+      "mp3": "sounds/jesus christ save me from you fuckers.mp3"
     },
     {
-      "name": "Jamakin Insults",
+      "name": "joe biden is my uncle",
       "color": "#5F9EA0",
-      "mp3": "sounds/Jamakin Insults.mp3"
+      "mp3": "sounds/joe biden is my uncle.mp3"
     },
     {
-      "name": "jesus christ save me from you fuckers",
+      "name": "joe biden its my uncle why dont you understand",
       "color": "#3B9C9C",
-      "mp3": "sounds/jesus christ save me from you fuckers.mp3"
+      "mp3": "sounds/joe biden its my uncle why dont you understand.mp3"
     },
     {
-      "name": "joe biden is my uncle",
+      "name": "just give me your credit card numbers",
       "color": "#008B8B",
-      "mp3": "sounds/joe biden is my uncle.mp3"
+      "mp3": "sounds/just give me your credit card numbers.mp3"
     },
     {
-      "name": "joe biden its my uncle why dont you understand",
+      "name": "just shutup you big dumb asshole you mother fucker",
       "color": "#00827F",
-      "mp3": "sounds/joe biden its my uncle why dont you understand.mp3"
+      "mp3": "sounds/just shutup you big dumb asshole you mother fucker.mp3"
     },
     {
-      "name": "just give me your credit card numbers",
+      "name": "just your mom i guess.wav
       "color": "#008080",
-      "mp3": "sounds/just give me your credit card numbers.mp3"
+      "mp3": "sounds/just your mom i guess.wav"
     },
     {
-      "name": "just shutup you big dumb asshole you mother fucker",
+      "name": "let me tell you that maki choot is the eatable things",
       "color": "#007C80",
-      "mp3": "sounds/just shutup you big dumb asshole you mother fucker.mp3"
+      "mp3": "sounds/let me tell you that maki choot is the eatable things.mp3"
     },
     {
-      "name": "let me tell you that maki choot is the eatable things",
+      "name": "macaroni and the cheese virus",
+      "color": "#045F5F",
+      "mp3": "sounds/macaroni and the cheese virus.mp3"
+    },
+    {
+      "name": "MadFemaleScammer YouMothaFucka",
       "color": "#045D5D",
-      "mp3": "sounds/let me tell you that maki choot is the eatable things.mp3"
+      "mp3": "sounds/MadFemaleScammer YouMothaFucka.mp3"
     },
     {
-      "name": "macaroni and the cheese virus",
+      "name": "motherfucker",
       "color": "#033E3E",
-      "mp3": "sounds/macaroni and the cheese virus.mp3"
+      "mp3": "sounds/motherfucker.mp3"
     },
     {
-      "name": "MadFemaleScammer YouMothaFucka",
+      "name": "my name is sam",
       "color": "#25383C",
-      "mp3": "sounds/MadFemaleScammer YouMothaFucka.mp3"
+      "mp3": "sounds/my name is sam.mp3"
     },
     {
-      "name": "motherfucker",
+      "name": "No no tickets available for you",
       "color": "#2C3539",
-      "mp3": "sounds/motherfucker.mp3"
+      "mp3": "sounds/No no tickets available for you.mp3"
     },
     {
-      "name": "my name is sam",
+      "name": "no x3 is that that its your mothersawhore dot com",
       "color": "#3C565B",
-      "mp3": "sounds/my name is sam.mp3"
+      "mp3": "sounds/no x3 is that that its your mothersawhore dot com.mp3"
     },
     {
-      "name": "No no tickets available for you",
+      "name": "no you do one thing sir do you have a windows near by you - first you need to bang your computer on the floor and after throw it away from your windows simple as that - can you do that",
       "color": "#4C787E",
-      "mp3": "sounds/No no tickets available for you.mp3"
+      "mp3": "sounds/no you do one thing sir do you have a windows near by you - first you need to bang your computer on the floor and after throw it away from 
     },
     {
-      "name": "no x3 is that that its your mothersawhore dot com",
+      "name": "your windows simple as that - can you do that",
       "color": "#5E7D7E",
-      "mp3": "sounds/no x3 is that that its your mothersawhore dot com.mp3"
+      "mp3": "sounds/your windows simple as that - can you do that.mp3"
     },
     {
-      "name": "no you do one thing sir do you have a windows near by you - first you need to bang your computer on the floor and after throw it away from your windows",
+      "name": "Oh that great you can publish that on bbc news",
       "color": "#307D7E",
-      "mp3": "sounds/no you do one thing sir do you have a windows near by you - first you need to bang your computer on the floor and after throw it away from your windows.mp3"
+      "mp3": "sounds/Oh that great you can publish that on bbc news.mp3"
     },
     {
-      "name": "simple as that - can you do that",
+      "name": "oh well on the bright side you wont need a hammer of a nail you can just use your sons head",
       "color": "#348781",
-      "mp3": "sounds/simple as that - can you do that.mp3"
+      "mp3": "sounds/oh well on the bright side you wont need a hammer of a nail you can just use your sons head.mp3"
     },
     {
-      "name": "Oh that great you can publish that on bbc news",
+      "name": "oh wow wow omg oh wow",
       "color": "#438D80",
-      "mp3": "sounds/Oh that great you can publish that on bbc news.mp3"
+      "mp3": "sounds/oh wow wow omg oh wow.mp3"
     },
     {
-      "name": "oh well on the bright side you wont need a hammer of a nail you can just use your sons head",
+      "name": "oh ya",
       "color": "#4E8975",
-      "mp3": "sounds/oh well on the bright side you wont need a hammer of a nail you can just use your sons head.mp3"
+      "mp3": "sounds/oh ya.mp3"
     },
     {
-      "name": "oh wow wow omg oh wow",
+      "name": "oh you are a gay - right",
       "color": "#1F6357",
-      "mp3": "sounds/oh wow wow omg oh wow.mp3"
+      "mp3": "sounds/oh you are a gay - right.mp3"
     },
     {
-      "name": "oh ya",
+      "name": "oh you want to gang bang her",
       "color": "#306754",
-      "mp3": "sounds/oh ya.mp3"
+      "mp3": "sounds/oh you want to gang bang her.mp3"
     },
     {
-      "name": "oh you are a gay - right",
+      "name": "oh your dick in stuck in your friends ass omg your are both doing sex your are doing sex omg",
       "color": "#006A4E",
-      "mp3": "sounds/oh you are a gay - right.mp3"
+      "mp3": "sounds/oh your dick in stuck in your friends ass omg your are both doing sex your are doing sex omg.mp3"
     },
     {
-      "name": "oh you want to gang bang her",
+      "name": "ohh my god thank you",
       "color": "#2E8B57",
-      "mp3": "sounds/oh you want to gang bang her.mp3"
+      "mp3": "sounds/ohh my god thank you.mp3"
     },
     {
-      "name": "oh your dick in stuck in your friends ass omg your are both doing sex your are doing sex omg",
+      "name": "ohh so that mean that your mother was a hoe",
       "color": "#1B8A6B",
-      "mp3": "sounds/oh your dick in stuck in your friends ass omg your are both doing sex your are doing sex omg.mp3"
+      "mp3": "sounds/ohh so that mean that your mother was a hoe.mp3"
     },
     {
-      "name": "ohh my god thank you",
+      "name": "okaaay you want macafee in my ass okay",
       "color": "#31906E",
-      "mp3": "sounds/ohh my god thank you.mp3"
+      "mp3": "sounds/okaaay you want macafee in my ass okay.mp3"
     },
     {
-      "name": "ohh so that mean that your mother was a hoe",
+      "name": "okay first of all be calm and explain me - which of problem you have on your computer right now",
       "color": "#00A36C",
-      "mp3": "sounds/ohh so that mean that your mother was a hoe.mp3"
+      "mp3": "sounds/okay first of all be calm and explain me - which of problem you have on your computer right now.mp3"
     },
     {
-      "name": "okaaay you want macafee in my ass okay",
+      "name": "okay i have to go i have a meeting with the donald trump right now",
       "color": "#34A56F",
-      "mp3": "sounds/okaaay you want macafee in my ass okay.mp3"
+      "mp3": "sounds/okay i have to go i have a meeting with the donald trump right now.mp3"
     },
     {
-      "name": "okay first of all be calm and explain me - which of problem you have on your computer right now",
+      "name": "okay im ready to marry you",
       "color": "#1AA260",
-      "mp3": "sounds/okay first of all be calm and explain me - which of problem you have on your computer right now.mp3"
+      "mp3": "sounds/okay im ready to marry you.mp3"
     },
     {
-      "name": "okay i have to go i have a meeting with the donald trump right now",
+      "name": "okay so that means you want my dick right",
       "color": "#50C878",
-      "mp3": "sounds/okay i have to go i have a meeting with the donald trump right now.mp3"
+      "mp3": "sounds/okay so that means you want my dick right.mp3"
     },
     {
-      "name": "okay im ready to marry you",
+      "name": "okay we are going to block your number dont call here again and again bye bye",
       "color": "#3EB489",
-      "mp3": "sounds/okay im ready to marry you.mp3"
+      "mp3": "sounds/okay we are going to block your number dont call here again and again bye bye.mp3"
     },
     {
-      "name": "okay so that means you want my dick right",
+      "name": "okay we are just going to hang up that call and also we are going to block your number byby",
       "color": "#3CB371",
-      "mp3": "sounds/okay so that means you want my dick right.mp3"
+      "mp3": "sounds/okay we are just going to hang up that call and also we are going to block your number byby.mp3"
     },
     {
-      "name": "okay we are going to block your number dont call here again and again bye bye",
+      "name": "OMG does he have cancer",
       "color": "#7C9D8E",
-      "mp3": "sounds/okay we are going to block your number dont call here again and again bye bye.mp3"
+      "mp3": "sounds/OMG does he have cancer.mp3"
     },
     {
-      "name": "okay we are just going to hang up that call and also we are going to block your number byby",
+      "name": "omg your computers got fucked and what about you",
       "color": "#78866B",
-      "mp3": "sounds/okay we are just going to hang up that call and also we are going to block your number byby.mp3"
+      "mp3": "sounds/omg your computers got fucked and what about you.mp3"
     },
     {
-      "name": "OMG does he have cancer",
+      "name": "on its stuck up your ass you said - how did it get up your ass - you did a trick shot or something",
       "color": "#848B79",
-      "mp3": "sounds/OMG does he have cancer.mp3"
+      "mp3": "sounds/on its stuck up your ass you said - how did it get up your ass - you did a trick shot or something.mp3"
     },
     {
-      "name": "omg your computers got fucked and what about you",
+      "name": "OOOOhYAAAAscammer.wav
       "color": "#617C58",
-      "mp3": "sounds/omg your computers got fucked and what about you.mp3"
+      "mp3": "sounds/OOOOhYAAAAscammer.wav"
     },
     {
-      "name": "on its stuck up your ass you said - how did it get up your ass - you did a trick shot or something",
+      "name": "or you can suck my balls right now here",
       "color": "#728C00",
-      "mp3": "sounds/on its stuck up your ass you said - how did it get up your ass - you did a trick shot or something.mp3"
+      "mp3": "sounds/or you can suck my balls right now here.mp3"
     },
     {
-      "name": "or you can suck my balls right now here",
+      "name": "or you want me to help you out",
+      "color": "#6B8E23",
+      "mp3": "sounds/or you want me to help you out.mp3"
+    },
+    {
+      "name": "ORB As Prank 1",
       "color": "#808000",
-      "mp3": "sounds/or you can suck my balls right now here.mp3"
+      "mp3": "sounds/ORB As Prank 1.mp3"
     },
     {
-      "name": "or you want me to help you out",
+      "name": "ORB As Prank 2",
       "color": "#556B2F",
-      "mp3": "sounds/or you want me to help you out.mp3"
+      "mp3": "sounds/ORB As Prank 2.mp3"
     },
     {
-      "name": "ORB As Prank 1",
+      "name": "ORB As Prank 3",
       "color": "#4E5B31",
-      "mp3": "sounds/ORB As Prank 1.mp3"
+      "mp3": "sounds/ORB As Prank 3.mp3"
     },
     {
-      "name": "ORB As Prank 2",
+      "name": "Paypal Paul",
       "color": "#3A5F0B",
-      "mp3": "sounds/ORB As Prank 2.mp3"
+      "mp3": "sounds/Paypal Paul.mp3"
     },
     {
-      "name": "ORB As Prank 3",
+      "name": "please press 2 to fuck your girl fiend",
       "color": "#4B5320",
-      "mp3": "sounds/ORB As Prank 3.mp3"
+      "mp3": "sounds/please press 2 to fuck your girl fiend.mp3"
     },
     {
-      "name": "Paypal Paul",
+      "name": "right sir",
       "color": "#667C26",
-      "mp3": "sounds/Paypal Paul.mp3"
+      "mp3": "sounds/right sir.mp3"
     },
     {
-      "name": "please press 2 to fuck your girl fiend",
+      "name": "rundi lost mind",
       "color": "#4E9258",
-      "mp3": "sounds/please press 2 to fuck your girl fiend.mp3"
+      "mp3": "sounds/rundi lost mind.mp3"
     },
     {
-      "name": "right sir",
+      "name": "scammer breakdown p1",
       "color": "#08A04B",
-      "mp3": "sounds/right sir.mp3"
+      "mp3": "sounds/scammer breakdown p1.mp3"
     },
     {
-      "name": "rundi lost mind",
+      "name": "scammer breakdown p2",
       "color": "#387C44",
-      "mp3": "sounds/rundi lost mind.mp3"
+      "mp3": "sounds/scammer breakdown p2.mp3"
     },
     {
-      "name": "scammer breakdown p1",
+      "name": "scammer laughing 2",
       "color": "#347235",
-      "mp3": "sounds/scammer breakdown p1.mp3"
+      "mp3": "sounds/scammer laughing 2.mp3"
     },
     {
-      "name": "scammer breakdown p2",
+      "name": "scammer laughing",
       "color": "#347C2C",
-      "mp3": "sounds/scammer breakdown p2.mp3"
+      "mp3": "sounds/scammer laughing.mp3"
     },
     {
-      "name": "scammer laughing 2",
+      "name": "scammer rap 1",
       "color": "#227442",
-      "mp3": "sounds/scammer laughing 2.mp3"
+      "mp3": "sounds/scammer rap 1.mp3"
     },
     {
-      "name": "scammer laughing",
+      "name": "scammer rap 2",
       "color": "#228B22",
-      "mp3": "sounds/scammer laughing.mp3"
+      "mp3": "sounds/scammer rap 2.mp3"
     },
     {
-      "name": "scammer rap 1",
+      "name": "scammer rap 3",
       "color": "#008000",
-      "mp3": "sounds/scammer rap 1.mp3"
+      "mp3": "sounds/scammer rap 3.mp3"
     },
     {
-      "name": "scammer rap 2",
+      "name": "scammer sings i want to break free",
       "color": "#006400",
-      "mp3": "sounds/scammer rap 2.mp3"
+      "mp3": "sounds/scammer sings i want to break free.mp3"
     },
     {
-      "name": "scammer rap 3",
+      "name": "senior supervisor fucking your mom and daughter together",
       "color": "#056608",
-      "mp3": "sounds/scammer rap 3.mp3"
+      "mp3": "sounds/senior supervisor fucking your mom and daughter together.mp3"
     },
     {
-      "name": "scammer sings i want to break free",
+      "name": "shut up and bend over",
       "color": "#046307",
-      "mp3": "sounds/scammer sings i want to break free.mp3"
+      "mp3": "sounds/shut up and bend over.mp3"
     },
     {
-      "name": "senior supervisor fucking your mom and daughter together",
+      "name": "sir i would really appreciate if you could go ahead and speak to me in the proper way - okay - if not i would have to go ahead and 
       "color": "#355E3B",
-      "mp3": "sounds/senior supervisor fucking your mom and daughter together.mp3"
+      "mp3": "sounds/sir i would really appreciate if you could go ahead and speak to me in the proper way - okay - if not i would have to go ahead and 
     },
     {
-      "name": "shut up and bend over",
+      "name": "disconnect the call",
       "color": "#254117",
-      "mp3": "sounds/shut up and bend over.mp3"
+      "mp3": "sounds/disconnect the call.mp3"
     },
     {
-      "name": "sir i would really appreciate if you could go ahead and speak to me in the proper way - okay - if not i would have to go ahead and disconnect the call",
+      "name": "sir it is very tiny",
       "color": "#004225",
-      "mp3": "sounds/sir i would really appreciate if you could go ahead and speak to me in the proper way - okay - if not i would have to go ahead and disconnect the call.mp3"
+      "mp3": "sounds/sir it is very tiny.mp3"
     },
     {
-      "name": "sir it is very tiny",
+      "name": "sir what is the concern you have called us for what reason you have called us today",
       "color": "#437C17",
-      "mp3": "sounds/sir it is very tiny.mp3"
+      "mp3": "sounds/sir what is the concern you have called us for what reason you have called us today.mp3"
     },
     {
-      "name": "sir what is the concern you have called us for what reason you have called us today",
+      "name": "sir what you had in your breakfast",
       "color": "#347C17",
-      "mp3": "sounds/sir what is the concern you have called us for what reason you have called us today.mp3"
+      "mp3": "sounds/sir what you had in your breakfast.mp3"
     },
     {
-      "name": "sir what you had in your breakfast",
+      "name": "sir you can simply concern with me like right",
       "color": "#6AA121",
-      "mp3": "sounds/sir what you had in your breakfast.mp3"
+      "mp3": "sounds/sir you can simply concern with me like right.mp3"
     },
     {
-      "name": "sir you can simply concern with me like right",
+      "name": "sir your voice is breaking could you please repeaty that and speak lounder",
       "color": "#8A9A5B",
-      "mp3": "sounds/sir you can simply concern with me like right.mp3"
+      "mp3": "sounds/sir your voice is breaking could you please repeaty that and speak lounder.mp3"
     },
     {
-      "name": "sir your voice is breaking could you please repeaty that and speak lounder",
+      "name": "smell it x2 smell my ass comon",
       "color": "#3F9B0B",
-      "mp3": "sounds/sir your voice is breaking could you please repeaty that and speak lounder.mp3"
+      "mp3": "sounds/smell it x2 smell my ass comon.mp3"
     },
     {
-      "name": "smell it x2 smell my ass comon",
+      "name": "so as i understood that your are a mother fucker your fuck your own mother and you have a sister too click",
       "color": "#4AA02C",
-      "mp3": "sounds/smell it x2 smell my ass comon.mp3"
+      "mp3": "sounds/so as i understood that your are a mother fucker your fuck your own mother and you have a sister too click.mp3"
     },
     {
-      "name": "so as i understood that your are a mother fucker your fuck your own mother and you have a sister too click",
+      "name": "so he has cancer in his ass my god and you got cancer in your balls",
       "color": "#41A317",
-      "mp3": "sounds/so as i understood that your are a mother fucker your fuck your own mother and you have a sister too click.mp3"
+      "mp3": "sounds/so he has cancer in his ass my god and you got cancer in your balls.mp3"
     },
     {
-      "name": "so he has cancer in his ass my god and you got cancer in your balls",
+      "name": "so how about you just go ahead and cuck my cock",
       "color": "#12AD2B",
-      "mp3": "sounds/so he has cancer in his ass my god and you got cancer in your balls.mp3"
+      "mp3": "sounds/so how about you just go ahead and cuck my cock.mp3"
     },
     {
-      "name": "so how about you just go ahead and cuck my cock",
+      "name": "so if you are a gay just be proud that you are a gay",
       "color": "#3EA055",
-      "mp3": "sounds/so how about you just go ahead and cuck my cock.mp3"
+      "mp3": "sounds/so if you are a gay just be proud that you are a gay.mp3"
     },
     {
-      "name": "so if you are a gay just be proud that you are a gay",
+      "name": "so why the fucking you call on this number you fucking ass hole",
       "color": "#73A16C",
-      "mp3": "sounds/so if you are a gay just be proud that you are a gay.mp3"
+      "mp3": "sounds/so why the fucking you call on this number you fucking ass hole.mp3"
     },
     {
-      "name": "so why the fucking you call on this number you fucking ass hole",
+      "name": "so you should such a stupid just hang up the phone call",
       "color": "#6CBB3C",
-      "mp3": "sounds/so why the fucking you call on this number you fucking ass hole.mp3"
+      "mp3": "sounds/so you should such a stupid just hang up the phone call.mp3"
     },
     {
-      "name": "so you should such a stupid just hang up the phone call",
+      "name": "Stop wasting my time you assholes",
       "color": "#6CC417",
-      "mp3": "sounds/so you should such a stupid just hang up the phone call.mp3"
+      "mp3": "sounds/Stop wasting my time you assholes.mp3"
     },
     {
-      "name": "Stop wasting my time you assholes",
+      "name": "suck my dick you motherfucker",
       "color": "#4CC417",
-      "mp3": "sounds/Stop wasting my time you assholes.mp3"
+      "mp3": "sounds/suck my dick you motherfucker.mp3"
     },
     {
-      "name": "suck my dick you motherfucker",
+      "name": "suck your own dick you know how todo it",
       "color": "#32CD32",
-      "mp3": "sounds/suck my dick you motherfucker.mp3"
+      "mp3": "sounds/suck your own dick you know how todo it.mp3"
     },
     {
-      "name": "suck your own dick you know how todo it",
+      "name": "technician disconnected",
       "color": "#52D017",
-      "mp3": "sounds/suck your own dick you know how todo it.mp3"
+      "mp3": "sounds/technician disconnected.mp3"
     },
     {
-      "name": "technician disconnected",
+      "name": "tera maka bola",
       "color": "#4CC552",
-      "mp3": "sounds/technician disconnected.mp3"
+      "mp3": "sounds/tera maka bola.mp3"
     },
     {
-      "name": "tera maka bola",
+      "name": "teri behnki choot rundike",
       "color": "#54C571",
-      "mp3": "sounds/tera maka bola.mp3"
+      "mp3": "sounds/teri behnki choot rundike.mp3"
     },
     {
-      "name": "teri behnki choot rundike",
+      "name": "teri maka bola bencalode",
       "color": "#89C35C",
-      "mp3": "sounds/teri behnki choot rundike.mp3"
+      "mp3": "sounds/teri maka bola bencalode.mp3"
     },
     {
-      "name": "teri maka bola bencalode",
+      "name": "teri maka bosada muderchod - hut",
       "color": "#85BB65",
-      "mp3": "sounds/teri maka bola bencalode.mp3"
+      "mp3": "sounds/teri maka bosada muderchod - hut.mp3"
     },
     {
-      "name": "teri maka bosada muderchod - hut",
+      "name": "that for connecting with geek squad this is allex william how are you doing today",
       "color": "#99C68E",
-      "mp3": "sounds/teri maka bosada muderchod - hut.mp3"
+      "mp3": "sounds/that for connecting with geek squad this is allex william how are you doing today.mp3"
     },
     {
-      "name": "that for connecting with geek squad this is allex william how are you doing today",
+      "name": "that heckers want to smell your network",
       "color": "#A0D6B4",
-      "mp3": "sounds/that for connecting with geek squad this is allex william how are you doing today.mp3"
+      "mp3": "sounds/that heckers want to smell your network.mp3"
     },
     {
-      "name": "that heckers want to smell your network",
+      "name": "that what your mother said to me",
       "color": "#8FBC8F",
-      "mp3": "sounds/that heckers want to smell your network.mp3"
+      "mp3": "sounds/that what your mother said to me.mp3"
     },
     {
-      "name": "that what your mother said to me",
+      "name": "that you for calling support how may i help you",
       "color": "#829F82",
-      "mp3": "sounds/that what your mother said to me.mp3"
+      "mp3": "sounds/that you for calling support how may i help you.mp3"
     },
     {
-      "name": "that you for calling support how may i help you",
+      "name": "the hackers want to smell your network and with the help of the smelling they are attracted - they are stealing your financial data",
       "color": "#A2AD9C",
-      "mp3": "sounds/that you for calling support how may i help you.mp3"
+      "mp3": "sounds/the hackers want to smell your network and with the help of the smelling they are attracted - they are stealing your financial data.mp3"
     },
     {
-      "name": "the hackers want to smell your network and with the help of the smelling they are attracted - they are stealing your financial data",
+      "name": "there are some russian hackers which is connected with you",
       "color": "#B8BC86",
-      "mp3": "sounds/the hackers want to smell your network and with the help of the smelling they are attracted - they are stealing your financial data.mp3"
+      "mp3": "sounds/there are some russian hackers which is connected with you.mp3"
     },
     {
-      "name": "there are some russian hackers which is connected with you",
+      "name": "uh hu",
       "color": "#9CB071",
-      "mp3": "sounds/there are some russian hackers which is connected with you.mp3"
+      "mp3": "sounds/uh hu.mp3"
     },
     {
-      "name": "uh hu",
+      "name": "uh i will go and let you know the little recipe about a shrimp virus - are you here to listen that",
       "color": "#8FB31D",
-      "mp3": "sounds/uh hu.mp3"
+      "mp3": "sounds/uh i will go and let you know the little recipe about a shrimp virus - are you here to listen that.mp3"
     },
     {
-      "name": "uh i will go and let you know the little recipe about a shrimp virus - are you here to listen that",
+      "name": "unintelligible sounds",
       "color": "#B0BF1A",
-      "mp3": "sounds/uh i will go and let you know the little recipe about a shrimp virus - are you here to listen that.mp3"
+      "mp3": "sounds/unintelligible sounds.mp3"
     },
     {
-      "name": "unintelligible sounds",
+      "name": "we dont want your target giftcard - if you want to offer something you can offer your pussy bitch",
       "color": "#B2C248",
-      "mp3": "sounds/unintelligible sounds.mp3"
+      "mp3": "sounds/we dont want your target giftcard - if you want to offer something you can offer your pussy bitch.mp3"
     },
     {
-      "name": "we dont want your target giftcard - if you want to offer something you can offer your pussy bitch",
+      "name": "welcom to the playstation stuuport how to i help you",
       "color": "#9DC209",
-      "mp3": "sounds/we dont want your target giftcard - if you want to offer something you can offer your pussy bitch.mp3"
+      "mp3": "sounds/welcom to the playstation stuuport how to i help you.mp3"
     },
     {
-      "name": "welcom to the playstation stuuport how to i help you",
+      "name": "what exactly are you trying to doing x2",
       "color": "#A1C935",
-      "mp3": "sounds/welcom to the playstation stuuport how to i help you.mp3"
+      "mp3": "sounds/what exactly are you trying to doing x2.mp3"
     },
     {
-      "name": "what exactly are you trying to doing x2",
+      "name": "what the problem you have sir - you can simply concern with me",
       "color": "#9ACD32",
-      "mp3": "sounds/what exactly are you trying to doing x2.mp3"
+      "mp3": "sounds/what the problem you have sir - you can simply concern with me.mp3"
     },
     {
-      "name": "what the problem you have sir - you can simply concern with me",
+      "name": "what you have todo is put some oil on your ass and put some shrimps in-between that thats the recipe",
       "color": "#77DD77",
-      "mp3": "sounds/what the problem you have sir - you can simply concern with me.mp3"
+      "mp3": "sounds/what you have todo is put some oil on your ass and put some shrimps in-between that thats the recipe.mp3"
     },
     {
-      "name": "what you have todo is put some oil on your ass and put some shrimps in-between that thats the recipe",
+      "name": "what",
       "color": "#7FE817",
-      "mp3": "sounds/what you have todo is put some oil on your ass and put some shrimps in-between that thats the recipe.mp3"
+      "mp3": "sounds/what.mp3"
     },
     {
-      "name": "what",
+      "name": "why are you making prank calls hang up",
       "color": "#59E817",
-      "mp3": "sounds/what.mp3"
+      "mp3": "sounds/why are you making prank calls hang up.mp3"
     },
     {
-      "name": "why are you making prank calls hang up",
+      "name": "why dont you give me a job to fuck your mama",
       "color": "#57E964",
-      "mp3": "sounds/why are you making prank calls hang up.mp3"
+      "mp3": "sounds/why dont you give me a job to fuck your mama.mp3"
     },
     {
-      "name": "why dont you give me a job to fuck your mama",
+      "name": "yah fuck you bro fuck you too fuck you hard",
       "color": "#16F529",
-      "mp3": "sounds/why dont you give me a job to fuck your mama.mp3"
+      "mp3": "sounds/yah fuck you bro fuck you too fuck you hard.mp3"
     },
     {
-      "name": "yah fuck you bro fuck you too fuck you hard",
+      "name": "yeees yes",
       "color": "#5EFB6E",
-      "mp3": "sounds/yah fuck you bro fuck you too fuck you hard.mp3"
+      "mp3": "sounds/yeees yes.mp3"
     },
     {
-      "name": "yeees yes",
+      "name": "yes (1)",
       "color": "#36F57F",
-      "mp3": "sounds/yeees yes.mp3"
+      "mp3": "sounds/yes (1).mp3"
     },
     {
-      "name": "yes (1)",
+      "name": "yes hi whats up",
       "color": "#00FF7F",
-      "mp3": "sounds/yes (1).mp3"
+      "mp3": "sounds/yes hi whats up.mp3"
     },
     {
-      "name": "yes hi whats up",
+      "name": "yes im watching you though my crystal ball",
       "color": "#00FA9A",
-      "mp3": "sounds/yes hi whats up.mp3"
+      "mp3": "sounds/yes im watching you though my crystal ball.mp3"
     },
     {
-      "name": "yes im watching you though my crystal ball",
+      "name": "yes same as you i hope you can ask your muder about it",
       "color": "#5FFB17",
-      "mp3": "sounds/yes im watching you though my crystal ball.mp3"
+      "mp3": "sounds/yes same as you i hope you can ask your muder about it.mp3"
     },
     {
-      "name": "yes same as you i hope you can ask your muder about it",
+      "name": "you answered your self you ask you question to your self that you are a stupid and you answer yah you are de stupid",
       "color": "#00FF00",
-      "mp3": "sounds/yes same as you i hope you can ask your muder about it.mp3"
+      "mp3": "sounds/you answered your self you ask you question to your self that you are a stupid and you answer yah you are de stupid.mp3"
     },
     {
-      "name": "you answered your self you ask you question to your self that you are a stupid and you answer yah you are de stupid",
+      "name": "you are asking me what is 783 - thats your mothers pussy code",
       "color": "#7CFC00",
-      "mp3": "sounds/you answered your self you ask you question to your self that you are a stupid and you answer yah you are de stupid.mp3"
+      "mp3": "sounds/you are asking me what is 783 - thats your mothers pussy code.mp3"
     },
     {
-      "name": "you are asking me what is 783 - thats your mothers pussy code",
+      "name": "you are pretending to be oversmart but i know each and everything",
       "color": "#66FF00",
-      "mp3": "sounds/you are asking me what is 783 - thats your mothers pussy code.mp3"
+      "mp3": "sounds/you are pretending to be oversmart but i know each and everything.mp3"
     },
     {
-      "name": "you are pretending to be oversmart but i know each and everything",
+      "name": "you are so funny man you are really so funny",
       "color": "#7FFF00",
-      "mp3": "sounds/you are pretending to be oversmart but i know each and everything.mp3"
+      "mp3": "sounds/you are so funny man you are really so funny.mp3"
     },
     {
-      "name": "you are so funny man you are really so funny",
+      "name": "you bloody asshole then why did you give us call",
       "color": "#87F717",
-      "mp3": "sounds/you are so funny man you are really so funny.mp3"
+      "mp3": "sounds/you bloody asshole then why did you give us call.mp3"
     },
     {
-      "name": "you bloody asshole then why did you give us call",
+      "name": "you bloody bitch",
       "color": "#98F516",
-      "mp3": "sounds/you bloody asshole then why did you give us call.mp3"
+      "mp3": "sounds/you bloody bitch.mp3"
     },
     {
-      "name": "you bloody bitch",
+      "name": "you dont have you email phone name and you calling to find where your macafee",
       "color": "#B1FB17",
-      "mp3": "sounds/you bloody bitch.mp3"
+      "mp3": "sounds/you dont have you email phone name and you calling to find where your macafee.mp3"
     },
     {
-      "name": "you dont have you email phone name and you calling to find where your macafee",
+      "name": "you have no job i know that",
       "color": "#ADF802",
-      "mp3": "sounds/you dont have you email phone name and you calling to find where your macafee.mp3"
+      "mp3": "sounds/you have no job i know that.mp3"
     },
     {
-      "name": "you have no job i know that",
+      "name": "you have to try a little more harder buddy",
       "color": "#ADFF2F",
-      "mp3": "sounds/you have no job i know that.mp3"
+      "mp3": "sounds/you have to try a little more harder buddy.mp3"
     },
     {
-      "name": "you have to try a little more harder buddy",
+      "name": "you know you a maderchod",
       "color": "#BDF516",
-      "mp3": "sounds/you have to try a little more harder buddy.mp3"
+      "mp3": "sounds/you know you a maderchod.mp3"
     },
     {
-      "name": "you know you a maderchod",
+      "name": "you mother fucker you call me dont call me alright",
       "color": "#DAEE01",
-      "mp3": "sounds/you know you a maderchod.mp3"
+      "mp3": "sounds/you mother fucker you call me dont call me alright.mp3"
     },
     {
-      "name": "you mother fucker you call me dont call me alright",
+      "name": "you mother fucker",
       "color": "#E2F516",
-      "mp3": "sounds/you mother fucker you call me dont call me alright.mp3"
+      "mp3": "sounds/you mother fucker.mp3"
     },
     {
-      "name": "you mother fucker",
+      "name": "you want baby - if you want baby tell me and i can give you baby",
       "color": "#CCFB5D",
-      "mp3": "sounds/you mother fucker.mp3"
+      "mp3": "sounds/you want baby - if you want baby tell me and i can give you baby.mp3"
     },
     {
-      "name": "you want baby - if you want baby tell me and i can give you baby",
+      "name": "you want to be my habibi",
       "color": "#BCE954",
-      "mp3": "sounds/you want baby - if you want baby tell me and i can give you baby.mp3"
+      "mp3": "sounds/you want to be my habibi.mp3"
     },
     {
-      "name": "you want to be my habibi",
+      "name": "you want to speak with my manager",
       "color": "#64E986",
-      "mp3": "sounds/you want to be my habibi.mp3"
+      "mp3": "sounds/you want to speak with my manager.mp3"
     },
     {
-      "name": "you want to speak with my manager",
+      "name": "your a fucking idiot",
       "color": "#90EE90",
-      "mp3": "sounds/you want to speak with my manager.mp3"
+      "mp3": "sounds/your a fucking idiot.mp3"
     },
     {
-      "name": "your a fucking idiot",
+      "name": "Your brother is what gay",
       "color": "#6AFB92",
-      "mp3": "sounds/your a fucking idiot.mp3"
+      "mp3": "sounds/Your brother is what gay.mp3"
     },
     {
-      "name": "Your brother is what gay",
+      "name": "Your computer is going to be fucked got it",
       "color": "#98FB98",
-      "mp3": "sounds/Your brother is what gay.mp3"
-    },
-    {
-      "name": "Your computer is going to be fucked got it",
-      "color": "#98FF98",
-      "mp3": "sounds/Your computer is going to be fucked got it.mp3"
-    },
-    {
-      "name": "and im the executive here",
-      "color": "#98FF98",
-      "mp3": "sounds/and im the executive here.mp3"
-    },
-    {
-      "name": "Angelus 793",
-      "color": "#B5EAAA",
-      "mp3": "sounds/Angelus 793.mp3"
-    },
-    {
-      "name": "Angelus a one time key 112169",
-      "color": "#E3F9A6",
-      "mp3": "sounds/Angelus a one time key 112169.mp3"
-    },
-    {
-      "name": "Angelus Alright",
-      "color": "#C3FDB8",
-      "mp3": "sounds/Angelus Alright.mp3"
-    },
-    {
-      "name": "Angelus and dont release it hold it down",
-      "color": "#C2E5D3",
-      "mp3": "sounds/Angelus and dont release it hold it down.mp3"
-    },
-    {
-      "name": "Angelus and from other finger press",
-      "color": "#DBF9DB",
-      "mp3": "sounds/Angelus and from other finger press.mp3"
-    },
-    {
-      "name": "Angelus and now hold it down",
-      "color": "#E8F1D4",
-      "mp3": "sounds/Angelus and now hold it down.mp3"
-    },
-    {
-      "name": "Angelus But before that",
-      "color": "#F0FFF0",
-      "mp3": "sounds/Angelus But before that.mp3"
-    },
-    {
-      "name": "Angelus Can you please confirm one thing for your safety",
-      "color": "#F5FFFA",
-      "mp3": "sounds/Angelus Can you please confirm one thing for your safety.mp3"
-    },
-    {
-      "name": "Angelus can you please spell it out i explore",
-      "color": "#FFFACD",
-      "mp3": "sounds/Angelus can you please spell it out i explore.mp3"
-    },
-    {
-      "name": "Angelus can you please spell it out",
-      "color": "#FFFFC2",
-      "mp3": "sounds/Angelus can you please spell it out.mp3"
-    },
-    {
-      "name": "Angelus can you repeat word for word what you have written",
-      "color": "#FFFFCC",
-      "mp3": "sounds/Angelus can you repeat word for word what you have written.mp3"
-    },
-    {
-      "name": "Angelus can you see something now",
-      "color": "#FFFDD0",
-      "mp3": "sounds/Angelus can you see something now.mp3"
-    },
-    {
-      "name": "Angelus can you seee my mouse moving",
-      "color": "#FAFAD2",
-      "mp3": "sounds/Angelus can you seee my mouse moving.mp3"
-    },
-    {
-      "name": "Angelus Certified Technician for the windows",
-      "color": "#FFFFE0",
-      "mp3": "sounds/Angelus Certified Technician for the windows.mp3"
-    },
-    {
-      "name": "Angelus Check all issues in exact manner",
-      "color": "#F5F5DC",
-      "mp3": "sounds/Angelus Check all issues in exact manner.mp3"
-    },
-    {
-      "name": "Angelus click on connect",
-      "color": "#FFF8DC",
-      "mp3": "sounds/Angelus click on connect.mp3"
-    },
-    {
-      "name": "Angelus click on it one more time click enter",
-      "color": "#FBF6D9",
-      "mp3": "sounds/Angelus click on it one more time click enter.mp3"
-    },
-    {
-      "name": "Angelus congratulations sir we are connected",
-      "color": "#F7E7CE",
-      "mp3": "sounds/Angelus congratulations sir we are connected.mp3"
-    },
-    {
-      "name": "Angelus dont release it",
-      "color": "#FAEBD7",
-      "mp3": "sounds/Angelus dont release it.mp3"
-    },
-    {
-      "name": "Angelus four boxes like windows",
-      "color": "#FFEFD5",
-      "mp3": "sounds/Angelus four boxes like windows.mp3"
-    },
-    {
-      "name": "Angelus four flags on the left bottom corner",
-      "color": "#FFEBCD",
-      "mp3": "sounds/Angelus four flags on the left bottom corner.mp3"
-    },
-    {
-      "name": "Angelus Gimme one second",
-      "color": "#FFE4C4",
-      "mp3": "sounds/Angelus Gimme one second.mp3"
-    },
-    {
-      "name": "Angelus Hackers from Jordan and Turkey",
-      "color": "#F5DEB3",
-      "mp3": "sounds/Angelus Hackers from Jordan and Turkey.mp3"
-    },
-    {
-      "name": "Angelus Hold it down",
-      "color": "#FFE4B5",
-      "mp3": "sounds/Angelus Hold it down.mp3"
-    },
-    {
-      "name": "Angelus I explore",
-      "color": "#FED8B1",
-      "mp3": "sounds/Angelus I explore.mp3"
-    },
-    {
-      "name": "Angelus I think you not doing it the right way",
-      "color": "#FFDAB9",
-      "mp3": "sounds/Angelus I think you not doing it the right way.mp3"
-    },
-    {
-      "name": "Angelus it says NOTEPAD",
-      "color": "#FFDEAD",
-      "mp3": "sounds/Angelus it says NOTEPAD.mp3"
-    },
-    {
-      "name": "Angelus Mr Robert Mr Bob",
-      "color": "#FBE7A1",
-      "mp3": "sounds/Angelus Mr Robert Mr Bob.mp3"
-    },
-    {
-      "name": "Angelus not forward slash",
-      "color": "#F3E3C3",
-      "mp3": "sounds/Angelus not forward slash.mp3"
-    },
-    {
-      "name": "Angelus now leave your mouse",
-      "color": "#F0E2B6",
-      "mp3": "sounds/Angelus now leave your mouse.mp3"
-    },
-    {
-      "name": "Angelus now type over there let me get the key for you",
-      "color": "#F1E5AC",
-      "mp3": "sounds/Angelus now type over there let me get the key for you.mp3"
-    },
-    {
-      "name": "Angelus on the right bottom can you see certified support",
-      "color": "#F3E5AB",
-      "mp3": "sounds/Angelus on the right bottom can you see certified support.mp3"
-    },
-    {
-      "name": "Angelus on the right bottom the cor-ner",
-      "color": "#ECE5B6",
-      "mp3": "sounds/Angelus on the right bottom the cor-ner.mp3"
-    },
-    {
-      "name": "Angelus option of run",
-      "color": "#E8E4C9",
-      "mp3": "sounds/Angelus option of run.mp3"
-    },
-    {
-      "name": "Angelus option of YES",
-      "color": "#EEE8AA",
-      "mp3": "sounds/Angelus option of YES.mp3"
-    },
-    {
-      "name": "Angelus Press the four flags key",
-      "color": "#F0E68C",
-      "mp3": "sounds/Angelus Press the four flags key.mp3"
-    },
-    {
-      "name": "Angelus Right 6",
-      "color": "#EDDA74",
-      "mp3": "sounds/Angelus Right 6.mp3"
-    },
-    {
-      "name": "Angelus Right",
-      "color": "#EDE275",
-      "mp3": "sounds/Angelus Right.mp3"
-    },
-    {
-      "name": "Angelus shortly notification click it",
-      "color": "#FFE87C",
-      "mp3": "sounds/Angelus shortly notification click it.mp3"
-    },
-    {
-      "name": "Angelus shortly notification click it1",
-      "color": "#FFF380",
-      "mp3": "sounds/Angelus shortly notification click it1.mp3"
-    },
-    {
-      "name": "Angelus Tanks for holdin the line can you hear me",
-      "color": "#FFFF33",
-      "mp3": "sounds/Angelus Tanks for holdin the line can you hear me.mp3"
-    },
-    {
-      "name": "Angelus thats the right place sir click on it",
-      "color": "#FFFF00",
-      "mp3": "sounds/Angelus thats the right place sir click on it.mp3"
-    },
-    {
-      "name": "Angelus THE four flags key",
-      "color": "#FFEF00",
-      "mp3": "sounds/Angelus THE four flags key.mp3"
-    },
-    {
-      "name": "Angelus The reason you are talkin to me right now",
-      "color": "#F5E216",
-      "mp3": "sounds/Angelus The reason you are talkin to me right now.mp3"
-    },
-    {
-      "name": "Angelus Till this problem is not fixed",
-      "color": "#FFDB58",
-      "mp3": "sounds/Angelus Till this problem is not fixed.mp3"
-    },
-    {
-      "name": "Angelus uh huh",
-      "color": "#FFDF00",
-      "mp3": "sounds/Angelus uh huh.mp3"
-    },
-    {
-      "name": "Angelus warning alert loop",
-      "color": "#F9DB24",
-      "mp3": "sounds/Angelus warning alert loop.mp3"
-    },
-    {
-      "name": "Angelus we are going to help you",
-      "color": "#FFD700",
-      "mp3": "sounds/Angelus we are going to help you.mp3"
-    },
-    {
-      "name": "Angelus when you see option at bottom click on save",
-      "color": "#FDD017",
-      "mp3": "sounds/Angelus when you see option at bottom click on save.mp3"
-    },
-    {
-      "name": "Angelus who is this",
-      "color": "#FFCE44",
-      "mp3": "sounds/Angelus who is this.mp3"
-    },
-    {
-      "name": "Angelus WHY YOU SUCH A DICKHEAD",
-      "color": "#EAC117",
-      "mp3": "sounds/Angelus WHY YOU SUCH A DICKHEAD.mp3"
-    },
-    {
-      "name": "Angelus yes i can hear you",
-      "color": "#F6BE00",
-      "mp3": "sounds/Angelus yes i can hear you.mp3"
-    },
-    {
-      "name": "Angelus yes",
-      "color": "#F2BB66",
-      "mp3": "sounds/Angelus yes.mp3"
-    },
-    {
-      "name": "Angelus yes1",
-      "color": "#FBB917",
-      "mp3": "sounds/Angelus yes1.mp3"
-    },
-    {
-      "name": "Angelus you callin from Michigan",
-      "color": "#FDBD01",
-      "mp3": "sounds/Angelus you callin from Michigan.mp3"
-    },
-    {
-      "name": "Angelus You dont need to worry",
-      "color": "#FBB117",
-      "mp3": "sounds/Angelus You dont need to worry.mp3"
-    },
-    {
-      "name": "Angelus you know boogeyman",
-      "color": "#FFAE42",
-      "mp3": "sounds/Angelus you know boogeyman.mp3"
-    },
-    {
-      "name": "Angelus you want me to fuck your mother",
-      "color": "#FFA62F",
-      "mp3": "sounds/Angelus you want me to fuck your mother.mp3"
-    },
-    {
-      "name": "Angelus YOUR MOTHER WITHOUT CONDOMN",
-      "color": "#FFA600",
-      "mp3": "sounds/Angelus YOUR MOTHER WITHOUT CONDOMN.mp3"
-    },
-    {
-      "name": "Angery American Man Enjoy making harassment phone calls dont call again",
-      "color": "#FFA500",
-      "mp3": "sounds/Angery American Man Enjoy making harassment phone calls dont call again.mp3"
-    },
-    {
-      "name": "are you alright",
-      "color": "#EE9A4D",
-      "mp3": "sounds/are you alright.mp3"
-    },
-    {
-      "name": "are you calling me by using a cellphone",
-      "color": "#F4A460",
-      "mp3": "sounds/are you calling me by using a cellphone.mp3"
-    },
-    {
-      "name": "are you fool",
-      "color": "#E2A76F",
-      "mp3": "sounds/are you fool.mp3"
-    },
-    {
-      "name": "are you on a drugs right now",
-      "color": "#C19A6B",
-      "mp3": "sounds/are you on a drugs right now.mp3"
-    },
-    {
-      "name": "are you out of the mind",
-      "color": "#E6BF83",
-      "mp3": "sounds/are you out of the mind.mp3"
-    },
-    {
-      "name": "are you sick sir",
-      "color": "#DEB887",
-      "mp3": "sounds/are you sick sir.mp3"
-    },
-    {
-      "name": "are you trying to steal the prize",
-      "color": "#D2B48C",
-      "mp3": "sounds/are you trying to steal the prize.mp3"
-    },
-    {
-      "name": "ask your mom to come and give me a blowjob",
-      "color": "#C8AD7F",
-      "mp3": "sounds/ask your mom to come and give me a blowjob.mp3"
-    },
-    {
-      "name": "bark like a dog - bark x3 - bark like a dog x2",
-      "color": "#C2B280",
-      "mp3": "sounds/bark like a dog - bark x3 - bark like a dog x2.mp3"
-    },
-    {
-      "name": "batty boy",
-      "color": "#BCB88A",
-      "mp3": "sounds/batty boy.mp3"
-    },
-    {
-      "name": "can you please hang up this call from your side sir",
-      "color": "#C8B560",
-      "mp3": "sounds/can you please hang up this call from your side sir.mp3"
-    },
-    {
-      "name": "can you see my cock - you like to suck it",
-      "color": "#C9BE62",
-      "mp3": "sounds/can you see my cock - you like to suck it.mp3"
-    },
-    {
-      "name": "can you send me your dirty x4 panties",
-      "color": "#C9AE5D",
-      "mp3": "sounds/can you send me your dirty x4 panties.mp3"
-    },
-    {
-      "name": "chicken burger 1",
-      "color": "#BDB76B",
-      "mp3": "sounds/chicken burger 1.mp3"
-    },
-    {
-      "name": "chicken burger 2",
-      "color": "#BAB86C",
-      "mp3": "sounds/chicken burger 2.mp3"
-    },
-    {
-      "name": "chicken burger disconnected",
-      "color": "#B5A642",
-      "mp3": "sounds/chicken burger disconnected.mp3"
-    },
-    {
-      "name": "chicken burger x3",
-      "color": "#C7A317",
-      "mp3": "sounds/chicken burger x3.mp3"
-    },
-    {
-      "name": "Cindy possible pch victim voice mail",
-      "color": "#D4AF37",
-      "mp3": "sounds/Cindy possible pch victim voice mail.mp3"
-    },
-    {
-      "name": "cindy youre gonna be a dead bitch by the end of today",
-      "color": "#E9AB17",
-      "mp3": "sounds/cindy youre gonna be a dead bitch by the end of today.mp3"
-    },
-    {
-      "name": "come to paris",
-      "color": "#E8A317",
-      "mp3": "sounds/come to paris.mp3"
-    },
-    {
-      "name": "did you like to drink my cum",
-      "color": "#DAA520",
-      "mp3": "sounds/did you like to drink my cum.mp3"
-    },
-    {
-      "name": "do i have to call 911",
-      "color": "#D4A017",
-      "mp3": "sounds/do i have to call 911.mp3"
-    },
-    {
-      "name": "do not ever call okay",
-      "color": "#C68E17",
-      "mp3": "sounds/do not ever call okay.mp3"
-    },
-    {
-      "name": "Do you know I am your father",
-      "color": "#B8860B",
-      "mp3": "sounds/Do you know I am your father.mp3"
-    },
-    {
-      "name": "do you know what are the components of a computer - ohh i know cuz you dont even have a computer - your a poor guy",
-      "color": "#C58917",
-      "mp3": "sounds/do you know what are the components of a computer - ohh i know cuz you dont even have a computer - your a poor guy.mp3"
-    },
-    {
-      "name": "do you think that we are fool here",
-      "color": "#CD853F",
-      "mp3": "sounds/do you think that we are fool here.mp3"
-    },
-    {
-      "name": "Do you want to book TicKit x2 TiKiTTiKiTTiKiTTiKiT",
-      "color": "#CD7F32",
-      "mp3": "sounds/Do you want to book TicKit x2 TiKiTTiKiTTiKiTTiKiT.mp3"
-    },
-    {
-      "name": "donald trump is my father",
-      "color": "#C88141",
-      "mp3": "sounds/donald trump is my father.mp3"
-    },
-    {
-      "name": "dont tech your dad how to fuck",
-      "color": "#B87333",
-      "mp3": "sounds/dont tech your dad how to fuck.mp3"
-    },
-    {
-      "name": "egg and toast - same x4",
-      "color": "#AA6C39",
-      "mp3": "sounds/egg and toast - same x4.mp3"
-    },
-    {
-      "name": "even i have a left and a right balls buddy - do you have a left and right",
-      "color": "#A97142",
-      "mp3": "sounds/even i have a left and a right balls buddy - do you have a left and right.mp3"
-    },
-    {
-      "name": "family motto",
-      "color": "#AB784E",
-      "mp3": "sounds/family motto.mp3"
-    },
-    {
-      "name": "first of all mind your language",
-      "color": "#966F33",
-      "mp3": "sounds/first of all mind your language.mp3"
-    },
-    {
-      "name": "fries coke fanter",
-      "color": "#806517",
-      "mp3": "sounds/fries coke fanter.mp3"
-    },
-    {
-      "name": "fuck off - fuck your mother",
-      "color": "#665D1E",
-      "mp3": "sounds/fuck off - fuck your mother.mp3"
-    },
-    {
-      "name": "fuck off bitch and suck your mother",
-      "color": "#8E7618",
-      "mp3": "sounds/fuck off bitch and suck your mother.mp3"
-    },
-    {
-      "name": "fuck off you mother fucker",
-      "color": "#8B8000",
-      "mp3": "sounds/fuck off you mother fucker.mp3"
-    },
-    {
-      "name": "Fuck yooooooooou fuck you",
-      "color": "#827839",
-      "mp3": "sounds/Fuck yooooooooou fuck you.mp3"
-    },
-    {
-      "name": "fuck you sir fuck you",
-      "color": "#8A865D",
-      "mp3": "sounds/fuck you sir fuck you.mp3"
-    },
-    {
-      "name": "fucking ass hole hindi insults",
-      "color": "#93917C",
-      "mp3": "sounds/fucking ass hole hindi insults.mp3"
-    },
-    {
-      "name": "fucking idiot",
-      "color": "#9F8C76",
-      "mp3": "sounds/fucking idiot.mp3"
-    },
-    {
-      "name": "fuuuck off bloody bitch",
-      "color": "#AF9B60",
-      "mp3": "sounds/fuuuck off bloody bitch.mp3"
-    },
-    {
-      "name": "get lost from here just get lost",
-      "color": "#827B60",
-      "mp3": "sounds/get lost from here just get lost.mp3"
-    },
-    {
-      "name": "get lost you mother fucker",
-      "color": "#786D5F",
-      "mp3": "sounds/get lost you mother fucker.mp3"
-    },
-    {
-      "name": "go and fuck yourself",
-      "color": "#483C32",
-      "mp3": "sounds/go and fuck yourself.mp3"
-    },
-    {
-      "name": "have a good day imma be busy trying to get a hold of your guys mom",
-      "color": "#493D26",
-      "mp3": "sounds/have a good day imma be busy trying to get a hold of your guys mom.mp3"
-    },
-    {
-      "name": "hello is it me youre looking for i can see it in your eyes ah battey boy go suck yr muda",
-      "color": "#513B1C",
-      "mp3": "sounds/hello is it me youre looking for i can see it in your eyes ah battey boy go suck yr muda.mp3"
-    },
-    {
-      "name": "hello you mogichod",
-      "color": "#3D3635",
-      "mp3": "sounds/hello you mogichod.mp3"
-    },
-    {
-      "name": "hey shut up you mother fuckers",
-      "color": "#3B2F2F",
-      "mp3": "sounds/hey shut up you mother fuckers.mp3"
-    },
-    {
-      "name": "hindi insults 2",
-      "color": "#49413F",
-      "mp3": "sounds/hindi insults 2.mp3"
-    },
-    {
-      "name": "hindi insults 3",
-      "color": "#43302E",
-      "mp3": "sounds/hindi insults 3.mp3"
-    },
-    {
-      "name": "hindi insults 4",
-      "color": "#622F22",
-      "mp3": "sounds/hindi insults 4.mp3"
-    },
-    {
-      "name": "hindi insults",
-      "color": "#5C3317",
-      "mp3": "sounds/hindi insults.mp3"
-    },
-    {
-      "name": "hold on x3 give me a moment",
-      "color": "#654321",
-      "mp3": "sounds/hold on x3 give me a moment.mp3"
-    },
-    {
-      "name": "horaaay",
-      "color": "#704214",
-      "mp3": "sounds/horaaay.mp3"
-    },
-    {
-      "name": "how about you let me fuck your daughter and you watch me",
-      "color": "#804A00",
-      "mp3": "sounds/how about you let me fuck your daughter and you watch me.mp3"
-    },
-    {
-      "name": "how are you brother how are you",
-      "color": "#6F4E37",
-      "mp3": "sounds/how are you brother how are you.mp3"
-    },
-    {
-      "name": "how are you",
-      "color": "#835C3B",
-      "mp3": "sounds/how are you.mp3"
-    },
-    {
-      "name": "how did it explode again",
-      "color": "#7F5217",
-      "mp3": "sounds/how did it explode again.mp3"
-    },
-    {
-      "name": "how do you feel to know your a winner",
-      "color": "#7F462C",
-      "mp3": "sounds/how do you feel to know your a winner.mp3"
-    },
-    {
-      "name": "how may i help you sir",
-      "color": "#A0522D",
-      "mp3": "sounds/how may i help you sir.mp3"
-    },
-    {
-      "name": "how you doing - my dick is waiting for you",
-      "color": "#8B4513",
-      "mp3": "sounds/how you doing - my dick is waiting for you.mp3"
-    },
-    {
-      "name": "i am telling you what is the truth if you want to belive it or not its up to you",
-      "color": "#8A4117",
-      "mp3": "sounds/i am telling you what is the truth if you want to belive it or not its up to you.mp3"
-    },
-    {
-      "name": "i dont give a damn shit",
-      "color": "#7E3817",
-      "mp3": "sounds/i dont give a damn shit.mp3"
-    },
-    {
-      "name": "i have a dick give your dad mom son ill fuck your familly one by one",
-      "color": "#7E3517",
-      "mp3": "sounds/i have a dick give your dad mom son ill fuck your familly one by one.mp3"
-    },
-    {
-      "name": "I love techno trance",
-      "color": "#954535",
-      "mp3": "sounds/I love techno trance.mp3"
-    },
-    {
-      "name": "i miss my son all the time my son i miss you all the time i know i do some bad things with your mom",
-      "color": "#9E4638",
-      "mp3": "sounds/i miss my son all the time my son i miss you all the time i know i do some bad things with your mom.mp3"
-    },
-    {
-      "name": "i said fuck you you fucking whore",
-      "color": "#C34A2C",
-      "mp3": "sounds/i said fuck you you fucking whore.mp3"
-    },
-    {
-      "name": "i think you are heigh bro",
-      "color": "#C04000",
-      "mp3": "sounds/i think you are heigh bro.mp3"
-    },
-    {
-      "name": "i would be on time everyday x2 sir",
-      "color": "#EB5406",
-      "mp3": "sounds/i would be on time everyday x2 sir.mp3"
-    },
-    {
-      "name": "I would love to be fucked in my ass",
-      "color": "#C35817",
-      "mp3": "sounds/I would love to be fucked in my ass.mp3"
-    },
-    {
-      "name": "if you want may dick i will give you my dick",
-      "color": "#B86500",
-      "mp3": "sounds/if you want may dick i will give you my dick.mp3"
-    },
-    {
-      "name": "ill give you one rupee hard cash - come - come and meet me some day",
-      "color": "#B5651D",
-      "mp3": "sounds/ill give you one rupee hard cash - come - come and meet me some day.mp3"
-    },
-    {
-      "name": "ill just pull your hair and put you mouth down to your own dick and make you suck it okay",
-      "color": "#B76734",
-      "mp3": "sounds/ill just pull your hair and put you mouth down to your own dick and make you suck it okay.mp3"
-    },
-    {
-      "name": "im coming to you home and i will fuck your mother right now okay",
-      "color": "#C36241",
-      "mp3": "sounds/im coming to you home and i will fuck your mother right now okay.mp3"
-    },
-    {
-      "name": "im fine habibi how about you",
-      "color": "#CB6D51",
-      "mp3": "sounds/im fine habibi how about you.mp3"
-    },
-    {
-      "name": "im going to put a popup in ur daughter pussy then i will fix it tonight",
-      "color": "#C47451",
-      "mp3": "sounds/im going to put a popup in ur daughter pussy then i will fix it tonight.mp3"
-    },
-    {
-      "name": "im gonna suck it yes",
-      "color": "#D2691E",
-      "mp3": "sounds/im gonna suck it yes.mp3"
-    },
-    {
-      "name": "im not here to listen all this crap for you",
-      "color": "#CC6600",
-      "mp3": "sounds/im not here to listen all this crap for you.mp3"
-    },
-    {
-      "name": "im pretty sure youre mentally unstable",
-      "color": "#E56717",
-      "mp3": "sounds/im pretty sure youre mentally unstable.mp3"
-    },
-    {
-      "name": "In order todo this first I need to fuck your mom okay",
-      "color": "#E66C2C",
-      "mp3": "sounds/In order todo this first I need to fuck your mom okay.mp3"
-    },
-    {
-      "name": "in your ass i will give you my dick rather than macafeee",
-      "color": "#FF6700",
-      "mp3": "sounds/in your ass i will give you my dick rather than macafeee.mp3"
-    },
-    {
-      "name": "indian scammer insults",
-      "color": "#FF5F1F",
-      "mp3": "sounds/indian scammer insults.mp3"
-    },
-    {
-      "name": "is this sound is coming from your asshole you motherfucker",
-      "color": "#F87217",
-      "mp3": "sounds/is this sound is coming from your asshole you motherfucker.mp3"
-    },
-    {
-      "name": "its up to you im not forcing you to belive anything",
-      "color": "#F88017",
-      "mp3": "sounds/its up to you im not forcing you to belive anything.mp3"
-    },
-    {
-      "name": "Jamakin Insults",
-      "color": "#FF8C00",
-      "mp3": "sounds/Jamakin Insults.mp3"
-    },
-    {
-      "name": "jesus christ save me from you fuckers",
-      "color": "#F87431",
-      "mp3": "sounds/jesus christ save me from you fuckers.mp3"
-    },
-    {
-      "name": "joe biden is my uncle",
-      "color": "#FF7722",
-      "mp3": "sounds/joe biden is my uncle.mp3"
-    },
-    {
-      "name": "joe biden its my uncle why dont you understand",
-      "color": "#E67451",
-      "mp3": "sounds/joe biden its my uncle why dont you understand.mp3"
-    },
-    {
-      "name": "just give me your credit card numbers",
-      "color": "#FF8040",
-      "mp3": "sounds/just give me your credit card numbers.mp3"
-    },
-    {
-      "name": "just shutup you big dumb asshole you mother fucker",
-      "color": "#FF7F50",
-      "mp3": "sounds/just shutup you big dumb asshole you mother fucker.mp3"
-    },
-    {
-      "name": "let me tell you that maki choot is the eatable things",
-      "color": "#F9966B",
-      "mp3": "sounds/let me tell you that maki choot is the eatable things.mp3"
-    },
-    {
-      "name": "macaroni and the cheese virus",
-      "color": "#FFA07A",
-      "mp3": "sounds/macaroni and the cheese virus.mp3"
-    },
-    {
-      "name": "MadFemaleScammer YouMothaFucka",
-      "color": "#F89880",
-      "mp3": "sounds/MadFemaleScammer YouMothaFucka.mp3"
-    },
-    {
-      "name": "motherfucker",
-      "color": "#E9967A",
-      "mp3": "sounds/motherfucker.mp3"
-    },
-    {
-      "name": "my name is sam",
-      "color": "#E78A61",
-      "mp3": "sounds/my name is sam.mp3"
-    },
-    {
-      "name": "No no tickets available for you",
-      "color": "#DA8A67",
-      "mp3": "sounds/No no tickets available for you.mp3"
-    },
-    {
-      "name": "no x3 is that that its your mothersawhore dot com",
-      "color": "#FF8674",
-      "mp3": "sounds/no x3 is that that its your mothersawhore dot com.mp3"
-    },
-    {
-      "name": "no you do one thing sir do you have a windows near by you - first you need to bang your computer on the floor and after throw it away from your windows",
-      "color": "#FA8072",
-      "mp3": "sounds/no you do one thing sir do you have a windows near by you - first you need to bang your computer on the floor and after throw it away from your windows.mp3",
-    },
-    {
-      "name": "simple as that - can you do that",
-      "color": "#F98B88",
-      "mp3": "sounds/simple as that - can you do that.mp3"
-    },
-    {
-      "name": "Oh that great you can publish that on bbc news",
-      "color": "#F08080",
-      "mp3": "sounds/Oh that great you can publish that on bbc news.mp3"
-    },
-    {
-      "name": "oh well on the bright side you wont need a hammer of a nail you can just use your sons head",
-      "color": "#F67280",
-      "mp3": "sounds/oh well on the bright side you wont need a hammer of a nail you can just use your sons head.mp3"
-    },
-    {
-      "name": "oh wow wow omg oh wow",
-      "color": "#E77471",
-      "mp3": "sounds/oh wow wow omg oh wow.mp3"
-    },
-    {
-      "name": "oh ya",
-      "color": "#F75D59",
-      "mp3": "sounds/oh ya.mp3"
-    },
-    {
-      "name": "oh you are a gay - right",
-      "color": "#E55451",
-      "mp3": "sounds/oh you are a gay - right.mp3"
-    },
-    {
-      "name": "oh you want to gang bang her",
-      "color": "#CD5C5C",
-      "mp3": "sounds/oh you want to gang bang her.mp3"
-    },
-    {
-      "name": "oh your dick in stuck in your friends ass omg your are both doing sex your are doing sex omg",
-      "color": "#FF6347",
-      "mp3": "sounds/oh your dick in stuck in your friends ass omg your are both doing sex your are doing sex omg.mp3"
-    },
-    {
-      "name": "ohh my god thank you",
-      "color": "#E55B3C",
-      "mp3": "sounds/ohh my god thank you.mp3"
-    },
-    {
-      "name": "ohh so that mean that your mother was a hoe",
-      "color": "#FF4500",
-      "mp3": "sounds/ohh so that mean that your mother was a hoe.mp3"
-    },
-    {
-      "name": "okaaay you want macafee in my ass okay",
-      "color": "#FF0000",
-      "mp3": "sounds/okaaay you want macafee in my ass okay.mp3"
-    },
-    {
-      "name": "okay first of all be calm and explain me - which of problem you have on your computer right now",
-      "color": "#FD1C03",
-      "mp3": "sounds/okay first of all be calm and explain me - which of problem you have on your computer right now.mp3"
-    },
-    {
-      "name": "okay i have to go i have a meeting with the donald trump right now",
-      "color": "#FF2400",
-      "mp3": "sounds/okay i have to go i have a meeting with the donald trump right now.mp3"
-    },
-    {
-      "name": "okay im ready to marry you",
-      "color": "#F62217",
-      "mp3": "sounds/okay im ready to marry you.mp3"
-    },
-    {
-      "name": "okay so that means you want my dick right",
-      "color": "#F70D1A",
-      "mp3": "sounds/okay so that means you want my dick right.mp3"
-    },
-    {
-      "name": "okay we are going to block your number dont call here again and again bye bye",
-      "color": "#F62817",
-      "mp3": "sounds/okay we are going to block your number dont call here again and again bye bye.mp3"
-    },
-    {
-      "name": "okay we are just going to hang up that call and also we are going to block your number byby",
-      "color": "#E42217",
-      "mp3": "sounds/okay we are just going to hang up that call and also we are going to block your number byby.mp3"
-    },
-    {
-      "name": "OMG does he have cancer",
-      "color": "#E41B17",
-      "mp3": "sounds/OMG does he have cancer.mp3"
-    },
-    {
-      "name": "omg your computers got fucked and what about you",
-      "color": "#DC381F",
-      "mp3": "sounds/omg your computers got fucked and what about you.mp3"
-    },
-    {
-      "name": "on its stuck up your ass you said - how did it get up your ass - you did a trick shot or something",
-      "color": "#C24641",
-      "mp3": "sounds/on its stuck up your ass you said - how did it get up your ass - you did a trick shot or something.mp3"
-    },
-    {
-      "name": "or you can suck my balls right now here",
-      "color": "#B22222",
-      "mp3": "sounds/or you can suck my balls right now here.mp3"
-    },
-    {
-      "name": "or you want me to help you out",
-      "color": "#B21807",
-      "mp3": "sounds/or you want me to help you out.mp3"
-    },
-    {
-      "name": "ORB As Prank 1",
-      "color": "#A52A2A",
-      "mp3": "sounds/ORB As Prank 1.mp3"
-    },
-    {
-      "name": "ORB As Prank 2",
-      "color": "#A70D2A",
-      "mp3": "sounds/ORB As Prank 2.mp3"
-    },
-    {
-      "name": "ORB As Prank 3",
-      "color": "#9F000F",
-      "mp3": "sounds/ORB As Prank 3.mp3"
-    },
-    {
-      "name": "Paypal Paul",
-      "color": "#931314",
-      "mp3": "sounds/Paypal Paul.mp3"
-    },
-    {
-      "name": "please press 2 to fuck your girl fiend",
-      "color": "#990000",
-      "mp3": "sounds/please press 2 to fuck your girl fiend.mp3"
-    },
-    {
-      "name": "right sir",
-      "color": "#990012",
-      "mp3": "sounds/right sir.mp3"
-    },
-    {
-      "name": "rundi lost mind",
-      "color": "#8B0000",
-      "mp3": "sounds/rundi lost mind.mp3"
-    },
-    {
-      "name": "scammer breakdown p1",
-      "color": "#8F0B0B",
-      "mp3": "sounds/scammer breakdown p1.mp3"
-    },
-    {
-      "name": "scammer breakdown p2",
-      "color": "#800000",
-      "mp3": "sounds/scammer breakdown p2.mp3"
-    },
-    {
-      "name": "scammer laughing 2",
-      "color": "#8C001A",
-      "mp3": "sounds/scammer laughing 2.mp3"
-    },
-    {
-      "name": "scammer laughing",
-      "color": "#7E191B",
-      "mp3": "sounds/scammer laughing.mp3"
-    },
-    {
-      "name": "scammer rap 1",
-      "color": "#800517",
-      "mp3": "sounds/scammer rap 1.mp3"
-    },
-    {
-      "name": "scammer rap 2",
-      "color": "#733635",
-      "mp3": "sounds/scammer rap 2.mp3"
-    },
-    {
-      "name": "scammer rap 3",
-      "color": "#660000",
-      "mp3": "sounds/scammer rap 3.mp3"
-    },
-    {
-      "name": "scammer sings i want to break free",
-      "color": "#551606",
-      "mp3": "sounds/scammer sings i want to break free.mp3"
-    },
-    {
-      "name": "senior supervisor fucking your mom and daughter together",
-      "color": "#560319",
-      "mp3": "sounds/senior supervisor fucking your mom and daughter together.mp3"
-    },
-    {
-      "name": "shut up and bend over",
-      "color": "#3F000F",
-      "mp3": "sounds/shut up and bend over.mp3"
-    },
-    {
-      "name": "sir i would really appreciate if you could go ahead and speak to me in the proper way - okay - if not i would have to go ahead and disconnect the call",
-      "color": "#3D0C02",
-      "mp3": "sounds/sir i would really appreciate if you could go ahead and speak to me in the proper way - okay - if not i would have to go ahead and disconnect the call.mp3"
-    },
-    {
-      "name": "sir it is very tiny",
-      "color": "#2F0909",
-      "mp3": "sounds/sir it is very tiny.mp3"
-    },
-    {
-      "name": "sir what is the concern you have called us for what reason you have called us today",
-      "color": "#2B1B17",
-      "mp3": "sounds/sir what is the concern you have called us for what reason you have called us today.mp3"
-    },
-    {
-      "name": "sir what you had in your breakfast",
-      "color": "#550A35",
-      "mp3": "sounds/sir what you had in your breakfast.mp3"
-    },
-    {
-      "name": "sir you can simply concern with me like right",
-      "color": "#810541",
-      "mp3": "sounds/sir you can simply concern with me like right.mp3"
-    },
-    {
-      "name": "sir your voice is breaking could you please repeaty that and speak lounder",
-      "color": "#7D0541",
-      "mp3": "sounds/sir your voice is breaking could you please repeaty that and speak lounder.mp3"
-    },
-    {
-      "name": "smell it x2 smell my ass comon",
-      "color": "#7D0552",
-      "mp3": "sounds/smell it x2 smell my ass comon.mp3"
-    },
-    {
-      "name": "so as i understood that your are a mother fucker your fuck your own mother and you have a sister too click",
-      "color": "#872657",
-      "mp3": "sounds/so as i understood that your are a mother fucker your fuck your own mother and you have a sister too click.mp3"
-    },
-    {
-      "name": "so he has cancer in his ass my god and you got cancer in your balls",
-      "color": "#7E354D",
-      "mp3": "sounds/so he has cancer in his ass my god and you got cancer in your balls.mp3"
-    },
-    {
-      "name": "so how about you just go ahead and cuck my cock",
-      "color": "#7F4E52",
-      "mp3": "sounds/so how about you just go ahead and cuck my cock.mp3"
-    },
-    {
-      "name": "so if you are a gay just be proud that you are a gay",
-      "color": "#7F525D",
-      "mp3": "sounds/so if you are a gay just be proud that you are a gay.mp3"
-    },
-    {
-      "name": "so why the fucking you call on this number you fucking ass hole",
-      "color": "#7F5A58",
-      "mp3": "sounds/so why the fucking you call on this number you fucking ass hole.mp3"
-    },
-    {
-      "name": "so you should such a stupid just hang up the phone call",
-      "color": "#997070",
-      "mp3": "sounds/so you should such a stupid just hang up the phone call.mp3"
-    },
-    {
-      "name": "Stop wasting my time you assholes",
-      "color": "#B1907F",
-      "mp3": "sounds/Stop wasting my time you assholes.mp3"
-    },
-    {
-      "name": "suck my dick you motherfucker",
-      "color": "#B38481",
-      "mp3": "sounds/suck my dick you motherfucker.mp3"
-    },
-    {
-      "name": "suck your own dick you know how todo it",
-      "color": "#BC8F8F",
-      "mp3": "sounds/suck your own dick you know how todo it.mp3"
-    },
-    {
-      "name": "technician disconnected",
-      "color": "#C5908E",
-      "mp3": "sounds/technician disconnected.mp3"
-    },
-    {
-      "name": "tera maka bola",
-      "color": "#C48793",
-      "mp3": "sounds/tera maka bola.mp3"
-    },
-    {
-      "name": "teri behnki choot rundike",
-      "color": "#CC7A8B",
-      "mp3": "sounds/teri behnki choot rundike.mp3"
-    },
-    {
-      "name": "teri maka bola bencalode",
-      "color": "#C48189",
-      "mp3": "sounds/teri maka bola bencalode.mp3"
-    },
-    {
-      "name": "teri maka bosada muderchod - hut",
-      "color": "#C08081",
-      "mp3": "sounds/teri maka bosada muderchod - hut.mp3"
-    },
-    {
-      "name": "that for connecting with geek squad this is allex william how are you doing today",
-      "color": "#D58A94",
-      "mp3": "sounds/that for connecting with geek squad this is allex william how are you doing today.mp3"
-    },
-    {
-      "name": "that heckers want to smell your network",
-      "color": "#E799A3",
-      "mp3": "sounds/that heckers want to smell your network.mp3"
-    },
-    {
-      "name": "that what your mother said to me",
-      "color": "#E8ADAA",
-      "mp3": "sounds/that what your mother said to me.mp3"
-    },
-    {
-      "name": "that you for calling support how may i help you",
-      "color": "#C9A9A6",
-      "mp3": "sounds/that you for calling support how may i help you.mp3"
-    },
-    {
-      "name": "the hackers want to smell your network and with the help of the smelling they are attracted - they are stealing your financial data",
-      "color": "#C4AEAD",
-      "mp3": "sounds/the hackers want to smell your network and with the help of the smelling they are attracted - they are stealing your financial data.mp3"
-    },
-    {
-      "name": "there are some russian hackers which is connected with you",
-      "color": "#E6C7C2",
-      "mp3": "sounds/there are some russian hackers which is connected with you.mp3"
-    },
-    {
-      "name": "uh hu",
-      "color": "#ECC5C0",
-      "mp3": "sounds/uh hu.mp3"
-    },
-    {
-      "name": "uh i will go and let you know the little recipe about a shrimp virus - are you here to listen that",
-      "color": "#FFCBA4",
-      "mp3": "sounds/uh i will go and let you know the little recipe about a shrimp virus - are you here to listen that.mp3"
-    },
-    {
-      "name": "unintelligible sounds",
-      "color": "#F8B88B",
-      "mp3": "sounds/unintelligible sounds.mp3"
-    },
-    {
-      "name": "we dont want your target giftcard - if you want to offer something you can offer your pussy bitch",
-      "color": "#EDC9AF",
-      "mp3": "sounds/we dont want your target giftcard - if you want to offer something you can offer your pussy bitch.mp3"
-    },
-    {
-      "name": "welcom to the playstation stuuport how to i help you",
-      "color": "#FFDDCA",
-      "mp3": "sounds/welcom to the playstation stuuport how to i help you.mp3"
-    },
-    {
-      "name": "what exactly are you trying to doing x2",
-      "color": "#FDD7E4",
-      "mp3": "sounds/what exactly are you trying to doing x2.mp3"
-    },
-    {
-      "name": "what the problem you have sir - you can simply concern with me",
-      "color": "#F2D4D7",
-      "mp3": "sounds/what the problem you have sir - you can simply concern with me.mp3"
-    },
-    {
-      "name": "what you have todo is put some oil on your ass and put some shrimps in-between that thats the recipe",
-      "color": "#FFE6E8",
-      "mp3": "sounds/what you have todo is put some oil on your ass and put some shrimps in-between that thats the recipe.mp3"
-    },
-    {
-      "name": "what",
-      "color": "#FFE4E1",
-      "mp3": "sounds/what.mp3"
-    },
-    {
-      "name": "why are you making prank calls hang up",
-      "color": "#FFDFDD",
-      "mp3": "sounds/why are you making prank calls hang up.mp3"
-    },
-    {
-      "name": "why dont you give me a job to fuck your mama",
-      "color": "#FBCFCD",
-      "mp3": "sounds/why dont you give me a job to fuck your mama.mp3"
-    },
-    {
-      "name": "yah fuck you bro fuck you too fuck you hard",
-      "color": "#FFCCCB",
-      "mp3": "sounds/yah fuck you bro fuck you too fuck you hard.mp3"
-    },
-    {
-      "name": "yeees yes",
-      "color": "#F6C6BD",
-      "mp3": "sounds/yeees yes.mp3"
-    },
-    {
-      "name": "yes (1)",
-      "color": "#FBBBB9",
-      "mp3": "sounds/yes (1).mp3"
-    },
-    {
-      "name": "yes hi whats up",
-      "color": "#FFC0CB",
-      "mp3": "sounds/yes hi whats up.mp3"
-    },
-    {
-      "name": "yes im watching you though my crystal ball",
-      "color": "#FFB6C1",
-      "mp3": "sounds/yes im watching you though my crystal ball.mp3"
-    },
-    {
-      "name": "yes same as you i hope you can ask your muder about it",
-      "color": "#FFB8BF",
-      "mp3": "sounds/yes same as you i hope you can ask your muder about it.mp3"
-    },
-    {
-      "name": "you answered your self you ask you question to your self that you are a stupid and you answer yah you are de stupid",
-      "color": "#FFB2D0",
-      "mp3": "sounds/you answered your self you ask you question to your self that you are a stupid and you answer yah you are de stupid.mp3"
-    },
-    {
-      "name": "you are asking me what is 783 - thats your mothers pussy code",
-      "color": "#FAAFBE",
-      "mp3": "sounds/you are asking me what is 783 - thats your mothers pussy code.mp3"
-    },
-    {
-      "name": "you are pretending to be oversmart but i know each and everything",
-      "color": "#FAAFBA",
-      "mp3": "sounds/you are pretending to be oversmart but i know each and everything.mp3"
-    },
-    {
-      "name": "you are so funny man you are really so funny",
-      "color": "#F9A7B0",
-      "mp3": "sounds/you are so funny man you are really so funny.mp3"
-    },
-    {
-      "name": "you bloody asshole then why did you give us call",
-      "color": "#FEA3AA",
-      "mp3": "sounds/you bloody asshole then why did you give us call.mp3"
-    },
-    {
-      "name": "you bloody bitch",
-      "color": "#E7A1B0",
-      "mp3": "sounds/you bloody bitch.mp3"
-    },
-    {
-      "name": "you dont have you email phone name and you calling to find where your macafee",
-      "color": "#E38AAE",
-      "mp3": "sounds/you dont have you email phone name and you calling to find where your macafee.mp3"
-    },
-    {
-      "name": "you have no job i know that",
-      "color": "#F778A1",
-      "mp3": "sounds/you have no job i know that.mp3"
-    },
-    {
-      "name": "you have to try a little more harder buddy",
-      "color": "#E5788F",
-      "mp3": "sounds/you have to try a little more harder buddy.mp3"
-    },
-    {
-      "name": "you know you a maderchod",
-      "color": "#E56E94",
-      "mp3": "sounds/you know you a maderchod.mp3"
-    },
-    {
-      "name": "you mother fucker you call me dont call me alright",
-      "color": "#DB7093",
-      "mp3": "sounds/you mother fucker you call me dont call me alright.mp3"
-    },
-    {
-      "name": "you mother fucker",
-      "color": "#D16587",
-      "mp3": "sounds/you mother fucker.mp3"
-    },
-    {
-      "name": "you want baby - if you want baby tell me and i can give you baby",
-      "color": "#C25A7C",
-      "mp3": "sounds/you want baby - if you want baby tell me and i can give you baby.mp3"
-    },
-    {
-      "name": "you want to be my habibi",
-      "color": "#C25283",
-      "mp3": "sounds/you want to be my habibi.mp3"
-    },
-    {
-      "name": "you want to speak with my manager",
-      "color": "#E75480",
-      "mp3": "sounds/you want to speak with my manager.mp3"
-    },
-    {
-      "name": "your a fucking idiot",
-      "color": "#F660AB",
-      "mp3": "sounds/your a fucking idiot.mp3"
-    },
-    {
-      "name": "Your brother is what gay",
-      "color": "#FF69B4",
-      "mp3": "sounds/Your brother is what gay.mp3"
-    },
-    {
-      "name": "Your computer is going to be fucked got it",
-      "color": "#FC6C85",
       "mp3": "sounds/Your computer is going to be fucked got it.mp3"
     }
   ]
